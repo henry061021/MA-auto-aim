@@ -1,0 +1,824 @@
+[2025-10-11 22:46:52.846] [info] Mindvision opened.
+[2025-10-11 22:46:52.847] [info] SocketCAN opened.
+[2025-10-11 22:46:52.847] [info] [Cboard] Waiting for q...
+[2025-10-11 22:46:52.853] [info] [Cboard] Opened.
+[2025-10-11 22:48:45.657] [debug] [Target] r=0.050, l=0.000
+[2025-10-11 22:48:45.657] [debug] [Tracker] Target diverged!
+[2025-10-11 22:49:16.885] [debug] [Target] r=0.137, l=-0.183
+[2025-10-11 22:49:16.885] [debug] [Tracker] Target diverged!
+[2025-10-11 22:49:44.104] [debug] [Target] r=0.253, l=-0.383
+[2025-10-11 22:49:44.104] [debug] [Tracker] Target diverged!
+[2025-10-11 22:49:44.342] [debug] [Target] r=0.031, l=0.000
+[2025-10-11 22:49:44.342] [debug] [Tracker] Target diverged!
+[2025-10-11 22:49:48.791] [debug] [Target] r=0.050, l=0.000
+[2025-10-11 22:49:48.791] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:07.256] [debug] [Target] r=0.286, l=-0.344
+[2025-10-11 22:51:07.256] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:07.411] [debug] [Target] r=0.091, l=-0.109
+[2025-10-11 22:51:07.411] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:07.846] [debug] [Target] r=0.189, l=-0.339
+[2025-10-11 22:51:07.846] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:09.442] [debug] [Target] r=0.050, l=0.000
+[2025-10-11 22:51:09.442] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:09.592] [debug] [Target] r=0.114, l=-0.185
+[2025-10-11 22:51:09.592] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:11.632] [debug] [Target] r=0.049, l=0.000
+[2025-10-11 22:51:11.632] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:11.808] [debug] [Target] r=0.028, l=-0.097
+[2025-10-11 22:51:11.808] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:12.140] [debug] [Target] r=0.179, l=-0.315
+[2025-10-11 22:51:12.140] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:20.428] [debug] [Target] r=0.049, l=0.000
+[2025-10-11 22:51:20.428] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:21.520] [debug] [Target] r=0.020, l=0.000
+[2025-10-11 22:51:21.520] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:21.871] [debug] [Target] r=0.044, l=0.000
+[2025-10-11 22:51:21.871] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:22.113] [debug] [Target] r=0.122, l=-0.186
+[2025-10-11 22:51:22.113] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:23.277] [debug] [Target] r=0.033, l=0.000
+[2025-10-11 22:51:23.277] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:23.435] [debug] [Target] r=0.075, l=-0.168
+[2025-10-11 22:51:23.435] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:24.802] [debug] [Target] r=0.019, l=0.000
+[2025-10-11 22:51:24.802] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:24.921] [debug] [Target] r=0.052, l=-0.097
+[2025-10-11 22:51:24.921] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:24.997] [debug] [Target] r=0.086, l=-0.114
+[2025-10-11 22:51:24.997] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:28.643] [debug] [Target] r=0.048, l=0.000
+[2025-10-11 22:51:28.643] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:34.463] [debug] [Target] r=0.124, l=-0.076
+[2025-10-11 22:51:34.463] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:34.672] [debug] [Target] r=0.039, l=-0.210
+[2025-10-11 22:51:34.672] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:36.001] [debug] [Target] r=0.040, l=0.000
+[2025-10-11 22:51:36.001] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:36.219] [debug] [Target] r=0.022, l=-0.099
+[2025-10-11 22:51:36.219] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:40.665] [debug] [Target] r=0.048, l=0.000
+[2025-10-11 22:51:40.665] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:41.105] [debug] [Target] r=0.180, l=-0.312
+[2025-10-11 22:51:41.105] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:41.313] [debug] [Target] r=0.110, l=-0.191
+[2025-10-11 22:51:41.313] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:46.751] [debug] [Target] r=0.049, l=0.000
+[2025-10-11 22:51:46.751] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:49.770] [debug] [Target] r=0.045, l=0.000
+[2025-10-11 22:51:49.770] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:50.303] [debug] [Target] r=0.042, l=0.000
+[2025-10-11 22:51:50.303] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:53.361] [debug] [Target] r=0.046, l=0.000
+[2025-10-11 22:51:53.361] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:53.538] [debug] [Target] r=0.019, l=-0.199
+[2025-10-11 22:51:53.538] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:53.677] [debug] [Target] r=0.118, l=-0.082
+[2025-10-11 22:51:53.677] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:53.736] [debug] [Target] r=0.119, l=-0.204
+[2025-10-11 22:51:53.736] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:53.794] [debug] [Target] r=0.035, l=-0.133
+[2025-10-11 22:51:53.794] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:53.867] [debug] [Target] r=0.039, l=-0.101
+[2025-10-11 22:51:53.867] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:55.193] [debug] [Target] r=0.050, l=0.000
+[2025-10-11 22:51:55.193] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:56.749] [debug] [Target] r=0.031, l=0.000
+[2025-10-11 22:51:56.749] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:58.108] [debug] [Target] r=0.026, l=0.000
+[2025-10-11 22:51:58.108] [debug] [Tracker] Target diverged!
+[2025-10-11 22:51:59.058] [debug] [Target] r=0.031, l=0.000
+[2025-10-11 22:51:59.058] [debug] [Tracker] Target diverged!
+[2025-10-11 22:52:01.591] [debug] [Target] r=0.048, l=0.000
+[2025-10-11 22:52:01.591] [debug] [Tracker] Target diverged!
+[2025-10-11 22:52:14.974] [debug] [Target] r=0.049, l=0.000
+[2025-10-11 22:52:14.974] [debug] [Tracker] Target diverged!
+[2025-10-11 22:52:17.151] [debug] [Target] r=0.046, l=0.000
+[2025-10-11 22:52:17.151] [debug] [Tracker] Target diverged!
+[2025-10-11 22:52:17.714] [debug] [Target] r=0.039, l=0.000
+[2025-10-11 22:52:17.714] [debug] [Tracker] Target diverged!
+[2025-10-11 22:55:03.882] [warning] Camera dropped!
+[2025-10-11 22:55:04.021] [warning] Unable to open usb!
+[2025-10-11 22:55:04.221] [warning] Not found camera!
+[2025-10-11 22:55:04.322] [warning] Unable to open usb!
+[2025-10-11 22:55:04.723] [warning] Not found camera!
+[2025-10-11 22:55:04.823] [warning] Unable to open usb!
+[2025-10-11 22:55:05.024] [warning] Not found camera!
+[2025-10-11 22:55:05.124] [warning] Unable to open usb!
+[2025-10-11 22:55:05.725] [warning] Not found camera!
+[2025-10-11 22:55:05.825] [warning] Unable to open usb!
+[2025-10-11 22:55:06.427] [warning] Not found camera!
+[2025-10-11 22:55:06.527] [warning] Unable to open usb!
+[2025-10-11 22:55:06.928] [warning] Not found camera!
+[2025-10-11 22:55:07.028] [warning] Unable to open usb!
+[2025-10-11 22:55:07.429] [warning] Not found camera!
+[2025-10-11 22:55:07.529] [warning] Unable to open usb!
+[2025-10-11 22:55:07.930] [warning] Not found camera!
+[2025-10-11 22:55:08.030] [warning] Unable to open usb!
+[2025-10-11 22:55:08.431] [warning] Not found camera!
+[2025-10-11 22:55:08.531] [warning] Unable to open usb!
+[2025-10-11 22:55:08.933] [warning] Not found camera!
+[2025-10-11 22:55:09.033] [warning] Unable to open usb!
+[2025-10-11 22:55:09.434] [warning] Not found camera!
+[2025-10-11 22:55:09.535] [warning] Unable to open usb!
+[2025-10-11 22:55:09.935] [warning] Not found camera!
+[2025-10-11 22:55:10.036] [warning] Unable to open usb!
+[2025-10-11 22:55:10.437] [warning] Not found camera!
+[2025-10-11 22:55:10.537] [warning] Unable to open usb!
+[2025-10-11 22:55:10.938] [warning] Not found camera!
+[2025-10-11 22:55:11.038] [warning] Unable to open usb!
+[2025-10-11 22:55:11.439] [warning] Not found camera!
+[2025-10-11 22:55:11.540] [warning] Unable to open usb!
+[2025-10-11 22:55:12.141] [warning] Not found camera!
+[2025-10-11 22:55:12.242] [warning] Unable to open usb!
+[2025-10-11 22:55:12.643] [warning] Not found camera!
+[2025-10-11 22:55:12.743] [warning] Unable to open usb!
+[2025-10-11 22:55:13.144] [warning] Not found camera!
+[2025-10-11 22:55:13.244] [warning] Unable to open usb!
+[2025-10-11 22:55:13.645] [warning] Not found camera!
+[2025-10-11 22:55:13.745] [warning] Unable to open usb!
+[2025-10-11 22:55:14.147] [warning] Not found camera!
+[2025-10-11 22:55:14.247] [warning] Unable to open usb!
+[2025-10-11 22:55:14.648] [warning] Not found camera!
+[2025-10-11 22:55:14.748] [warning] Unable to open usb!
+[2025-10-11 22:55:15.149] [warning] Not found camera!
+[2025-10-11 22:55:15.250] [warning] Unable to open usb!
+[2025-10-11 22:55:15.651] [warning] Not found camera!
+[2025-10-11 22:55:15.751] [warning] Unable to open usb!
+[2025-10-11 22:55:16.152] [warning] Not found camera!
+[2025-10-11 22:55:16.252] [warning] Unable to open usb!
+[2025-10-11 22:55:16.653] [warning] Not found camera!
+[2025-10-11 22:55:16.753] [warning] Unable to open usb!
+[2025-10-11 22:55:17.155] [warning] Not found camera!
+[2025-10-11 22:55:17.255] [warning] Unable to open usb!
+[2025-10-11 22:55:17.656] [warning] Not found camera!
+[2025-10-11 22:55:17.756] [warning] Unable to open usb!
+[2025-10-11 22:55:17.957] [warning] Not found camera!
+[2025-10-11 22:55:18.057] [warning] Unable to open usb!
+[2025-10-11 22:55:18.458] [warning] Not found camera!
+[2025-10-11 22:55:18.558] [warning] Unable to open usb!
+[2025-10-11 22:55:18.959] [warning] Not found camera!
+[2025-10-11 22:55:19.059] [warning] Unable to open usb!
+[2025-10-11 22:55:19.461] [warning] Not found camera!
+[2025-10-11 22:55:19.561] [warning] Unable to open usb!
+[2025-10-11 22:55:19.761] [warning] Not found camera!
+[2025-10-11 22:55:19.862] [warning] Unable to open usb!
+[2025-10-11 22:55:20.263] [warning] Not found camera!
+[2025-10-11 22:55:20.363] [warning] Unable to open usb!
+[2025-10-11 22:55:20.764] [warning] Not found camera!
+[2025-10-11 22:55:20.864] [warning] Unable to open usb!
+[2025-10-11 22:55:21.265] [warning] Not found camera!
+[2025-10-11 22:55:21.365] [warning] Unable to open usb!
+[2025-10-11 22:55:21.766] [warning] Not found camera!
+[2025-10-11 22:55:21.866] [warning] Unable to open usb!
+[2025-10-11 22:55:22.268] [warning] Not found camera!
+[2025-10-11 22:55:22.368] [warning] Unable to open usb!
+[2025-10-11 22:55:22.568] [warning] Not found camera!
+[2025-10-11 22:55:22.668] [warning] Unable to open usb!
+[2025-10-11 22:55:23.070] [warning] Not found camera!
+[2025-10-11 22:55:23.170] [warning] Unable to open usb!
+[2025-10-11 22:55:23.370] [warning] Not found camera!
+[2025-10-11 22:55:23.471] [warning] Unable to open usb!
+[2025-10-11 22:55:23.671] [warning] Not found camera!
+[2025-10-11 22:55:23.771] [warning] Unable to open usb!
+[2025-10-11 22:55:24.173] [warning] Not found camera!
+[2025-10-11 22:55:24.273] [warning] Unable to open usb!
+[2025-10-11 22:55:24.674] [warning] Not found camera!
+[2025-10-11 22:55:24.774] [warning] Unable to open usb!
+[2025-10-11 22:55:24.974] [warning] Not found camera!
+[2025-10-11 22:55:25.075] [warning] Unable to open usb!
+[2025-10-11 22:55:25.475] [warning] Not found camera!
+[2025-10-11 22:55:25.575] [warning] Unable to open usb!
+[2025-10-11 22:55:25.776] [warning] Not found camera!
+[2025-10-11 22:55:25.876] [warning] Unable to open usb!
+[2025-10-11 22:55:26.277] [warning] Not found camera!
+[2025-10-11 22:55:26.377] [warning] Unable to open usb!
+[2025-10-11 22:55:26.778] [warning] Not found camera!
+[2025-10-11 22:55:26.879] [warning] Unable to open usb!
+[2025-10-11 22:55:27.280] [warning] Not found camera!
+[2025-10-11 22:55:27.380] [warning] Unable to open usb!
+[2025-10-11 22:55:27.581] [warning] Not found camera!
+[2025-10-11 22:55:27.681] [warning] Unable to open usb!
+[2025-10-11 22:55:28.082] [warning] Not found camera!
+[2025-10-11 22:55:28.182] [warning] Unable to open usb!
+[2025-10-11 22:55:28.383] [warning] Not found camera!
+[2025-10-11 22:55:28.483] [warning] Unable to open usb!
+[2025-10-11 22:55:28.684] [warning] Not found camera!
+[2025-10-11 22:55:28.784] [warning] Unable to open usb!
+[2025-10-11 22:55:29.185] [warning] Not found camera!
+[2025-10-11 22:55:29.285] [warning] Unable to open usb!
+[2025-10-11 22:55:29.486] [warning] Not found camera!
+[2025-10-11 22:55:29.586] [warning] Unable to open usb!
+[2025-10-11 22:55:29.987] [warning] Not found camera!
+[2025-10-11 22:55:30.087] [warning] Unable to open usb!
+[2025-10-11 22:55:30.488] [warning] Not found camera!
+[2025-10-11 22:55:30.588] [warning] Unable to open usb!
+[2025-10-11 22:55:30.788] [warning] Not found camera!
+[2025-10-11 22:55:30.889] [warning] Unable to open usb!
+[2025-10-11 22:55:31.089] [warning] Not found camera!
+[2025-10-11 22:55:31.189] [warning] Unable to open usb!
+[2025-10-11 22:55:31.590] [warning] Not found camera!
+[2025-10-11 22:55:31.690] [warning] Unable to open usb!
+[2025-10-11 22:55:32.092] [warning] Not found camera!
+[2025-10-11 22:55:32.192] [warning] Unable to open usb!
+[2025-10-11 22:55:32.593] [warning] Not found camera!
+[2025-10-11 22:55:32.693] [warning] Unable to open usb!
+[2025-10-11 22:55:32.893] [warning] Not found camera!
+[2025-10-11 22:55:32.994] [warning] Unable to open usb!
+[2025-10-11 22:55:33.194] [warning] Not found camera!
+[2025-10-11 22:55:33.295] [warning] Unable to open usb!
+[2025-10-11 22:55:33.495] [warning] Not found camera!
+[2025-10-11 22:55:33.595] [warning] Unable to open usb!
+[2025-10-11 22:55:33.796] [warning] Not found camera!
+[2025-10-11 22:55:33.896] [warning] Unable to open usb!
+[2025-10-11 22:55:34.297] [warning] Not found camera!
+[2025-10-11 22:55:34.397] [warning] Unable to open usb!
+[2025-10-11 22:55:34.598] [warning] Not found camera!
+[2025-10-11 22:55:34.698] [warning] Unable to open usb!
+[2025-10-11 22:55:35.099] [warning] Not found camera!
+[2025-10-11 22:55:35.200] [warning] Unable to open usb!
+[2025-10-11 22:55:35.400] [warning] Not found camera!
+[2025-10-11 22:55:35.500] [warning] Unable to open usb!
+[2025-10-11 22:55:35.902] [warning] Not found camera!
+[2025-10-11 22:55:36.002] [warning] Unable to open usb!
+[2025-10-11 22:55:36.202] [warning] Not found camera!
+[2025-10-11 22:55:36.303] [warning] Unable to open usb!
+[2025-10-11 22:55:36.704] [warning] Not found camera!
+[2025-10-11 22:55:36.804] [warning] Unable to open usb!
+[2025-10-11 22:55:37.004] [warning] Not found camera!
+[2025-10-11 22:55:37.105] [warning] Unable to open usb!
+[2025-10-11 22:55:37.506] [warning] Not found camera!
+[2025-10-11 22:55:37.606] [warning] Unable to open usb!
+[2025-10-11 22:55:38.007] [warning] Not found camera!
+[2025-10-11 22:55:38.107] [warning] Unable to open usb!
+[2025-10-11 22:55:38.508] [warning] Not found camera!
+[2025-10-11 22:55:38.608] [warning] Unable to open usb!
+[2025-10-11 22:55:38.809] [warning] Not found camera!
+[2025-10-11 22:55:38.909] [warning] Unable to open usb!
+[2025-10-11 22:55:39.310] [warning] Not found camera!
+[2025-10-11 22:55:39.410] [warning] Unable to open usb!
+[2025-10-11 22:55:39.811] [warning] Not found camera!
+[2025-10-11 22:55:39.911] [warning] Unable to open usb!
+[2025-10-11 22:55:40.312] [warning] Not found camera!
+[2025-10-11 22:55:40.412] [warning] Unable to open usb!
+[2025-10-11 22:55:40.813] [warning] Not found camera!
+[2025-10-11 22:55:40.913] [warning] Unable to open usb!
+[2025-10-11 22:55:41.314] [warning] Not found camera!
+[2025-10-11 22:55:41.414] [warning] Unable to open usb!
+[2025-10-11 22:55:41.816] [warning] Not found camera!
+[2025-10-11 22:55:41.916] [warning] Unable to open usb!
+[2025-10-11 22:55:42.317] [warning] Not found camera!
+[2025-10-11 22:55:42.417] [warning] Unable to open usb!
+[2025-10-11 22:55:42.618] [warning] Not found camera!
+[2025-10-11 22:55:42.718] [warning] Unable to open usb!
+[2025-10-11 22:55:43.119] [warning] Not found camera!
+[2025-10-11 22:55:43.219] [warning] Unable to open usb!
+[2025-10-11 22:55:43.620] [warning] Not found camera!
+[2025-10-11 22:55:43.720] [warning] Unable to open usb!
+[2025-10-11 22:55:43.921] [warning] Not found camera!
+[2025-10-11 22:55:44.021] [warning] Unable to open usb!
+[2025-10-11 22:55:44.422] [warning] Not found camera!
+[2025-10-11 22:55:44.522] [warning] Unable to open usb!
+[2025-10-11 22:55:44.923] [warning] Not found camera!
+[2025-10-11 22:55:45.024] [warning] Unable to open usb!
+[2025-10-11 22:55:45.425] [warning] Not found camera!
+[2025-10-11 22:55:45.525] [warning] Unable to open usb!
+[2025-10-11 22:55:45.726] [warning] Not found camera!
+[2025-10-11 22:55:45.826] [warning] Unable to open usb!
+[2025-10-11 22:55:46.227] [warning] Not found camera!
+[2025-10-11 22:55:46.327] [warning] Unable to open usb!
+[2025-10-11 22:55:46.728] [warning] Not found camera!
+[2025-10-11 22:55:46.829] [warning] Unable to open usb!
+[2025-10-11 22:55:47.230] [warning] Not found camera!
+[2025-10-11 22:55:47.330] [warning] Unable to open usb!
+[2025-10-11 22:55:47.530] [warning] Not found camera!
+[2025-10-11 22:55:47.630] [warning] Unable to open usb!
+[2025-10-11 22:55:47.831] [warning] Not found camera!
+[2025-10-11 22:55:47.931] [warning] Unable to open usb!
+[2025-10-11 22:55:48.333] [warning] Not found camera!
+[2025-10-11 22:55:48.433] [warning] Unable to open usb!
+[2025-10-11 22:55:48.834] [warning] Not found camera!
+[2025-10-11 22:55:48.934] [warning] Unable to open usb!
+[2025-10-11 22:55:49.335] [warning] Not found camera!
+[2025-10-11 22:55:49.435] [warning] Unable to open usb!
+[2025-10-11 22:55:49.836] [warning] Not found camera!
+[2025-10-11 22:55:49.936] [warning] Unable to open usb!
+[2025-10-11 22:55:50.337] [warning] Not found camera!
+[2025-10-11 22:55:50.437] [warning] Unable to open usb!
+[2025-10-11 22:55:50.638] [warning] Not found camera!
+[2025-10-11 22:55:50.738] [warning] Unable to open usb!
+[2025-10-11 22:55:50.939] [warning] Not found camera!
+[2025-10-11 22:55:51.039] [warning] Unable to open usb!
+[2025-10-11 22:55:51.440] [warning] Not found camera!
+[2025-10-11 22:55:51.540] [warning] Unable to open usb!
+[2025-10-11 22:55:51.741] [warning] Not found camera!
+[2025-10-11 22:55:51.841] [warning] Unable to open usb!
+[2025-10-11 22:55:52.243] [warning] Not found camera!
+[2025-10-11 22:55:52.343] [warning] Unable to open usb!
+[2025-10-11 22:55:52.744] [warning] Not found camera!
+[2025-10-11 22:55:52.844] [warning] Unable to open usb!
+[2025-10-11 22:55:53.045] [warning] Not found camera!
+[2025-10-11 22:55:53.145] [warning] Unable to open usb!
+[2025-10-11 22:55:53.546] [warning] Not found camera!
+[2025-10-11 22:55:53.648] [warning] Unable to open usb!
+[2025-10-11 22:55:54.049] [warning] Not found camera!
+[2025-10-11 22:55:54.149] [warning] Unable to open usb!
+[2025-10-11 22:55:54.750] [warning] Not found camera!
+[2025-10-11 22:55:54.851] [warning] Unable to open usb!
+[2025-10-11 22:55:55.252] [warning] Not found camera!
+[2025-10-11 22:55:55.352] [warning] Unable to open usb!
+[2025-10-11 22:55:55.753] [warning] Not found camera!
+[2025-10-11 22:55:55.853] [warning] Unable to open usb!
+[2025-10-11 22:55:56.255] [warning] Not found camera!
+[2025-10-11 22:55:56.355] [warning] Unable to open usb!
+[2025-10-11 22:55:56.756] [warning] Not found camera!
+[2025-10-11 22:55:56.856] [warning] Unable to open usb!
+[2025-10-11 22:55:57.257] [warning] Not found camera!
+[2025-10-11 22:55:57.357] [warning] Unable to open usb!
+[2025-10-11 22:55:57.758] [warning] Not found camera!
+[2025-10-11 22:55:57.858] [warning] Unable to open usb!
+[2025-10-11 22:55:58.059] [warning] Not found camera!
+[2025-10-11 22:55:58.159] [warning] Unable to open usb!
+[2025-10-11 22:55:58.360] [warning] Not found camera!
+[2025-10-11 22:55:58.460] [warning] Unable to open usb!
+[2025-10-11 22:55:58.661] [warning] Not found camera!
+[2025-10-11 22:55:58.761] [warning] Unable to open usb!
+[2025-10-11 22:55:59.162] [warning] Not found camera!
+[2025-10-11 22:55:59.262] [warning] Unable to open usb!
+[2025-10-11 22:55:59.463] [warning] Not found camera!
+[2025-10-11 22:55:59.563] [warning] Unable to open usb!
+[2025-10-11 22:55:59.965] [warning] Not found camera!
+[2025-10-11 22:56:00.065] [warning] Unable to open usb!
+[2025-10-11 22:56:00.266] [warning] Not found camera!
+[2025-10-11 22:56:00.366] [warning] Unable to open usb!
+[2025-10-11 22:56:00.767] [warning] Not found camera!
+[2025-10-11 22:56:00.867] [warning] Unable to open usb!
+[2025-10-11 22:56:01.268] [warning] Not found camera!
+[2025-10-11 22:56:01.368] [warning] Unable to open usb!
+[2025-10-11 22:56:01.770] [warning] Not found camera!
+[2025-10-11 22:56:01.870] [warning] Unable to open usb!
+[2025-10-11 22:56:02.271] [warning] Not found camera!
+[2025-10-11 22:56:02.371] [warning] Unable to open usb!
+[2025-10-11 22:56:02.772] [warning] Not found camera!
+[2025-10-11 22:56:02.872] [warning] Unable to open usb!
+[2025-10-11 22:56:03.274] [warning] Not found camera!
+[2025-10-11 22:56:03.374] [warning] Unable to open usb!
+[2025-10-11 22:56:03.775] [warning] Not found camera!
+[2025-10-11 22:56:03.875] [warning] Unable to open usb!
+[2025-10-11 22:56:04.276] [warning] Not found camera!
+[2025-10-11 22:56:04.376] [warning] Unable to open usb!
+[2025-10-11 22:56:04.777] [warning] Not found camera!
+[2025-10-11 22:56:04.877] [warning] Unable to open usb!
+[2025-10-11 22:56:05.278] [warning] Not found camera!
+[2025-10-11 22:56:05.378] [warning] Unable to open usb!
+[2025-10-11 22:56:05.579] [warning] Not found camera!
+[2025-10-11 22:56:05.679] [warning] Unable to open usb!
+[2025-10-11 22:56:05.880] [warning] Not found camera!
+[2025-10-11 22:56:05.980] [warning] Unable to open usb!
+[2025-10-11 22:56:06.381] [warning] Not found camera!
+[2025-10-11 22:56:06.481] [warning] Unable to open usb!
+[2025-10-11 22:56:06.882] [warning] Not found camera!
+[2025-10-11 22:56:06.982] [warning] Unable to open usb!
+[2025-10-11 22:56:07.383] [warning] Not found camera!
+[2025-10-11 22:56:07.484] [warning] Unable to open usb!
+[2025-10-11 22:56:07.684] [warning] Not found camera!
+[2025-10-11 22:56:07.784] [warning] Unable to open usb!
+[2025-10-11 22:56:08.186] [warning] Not found camera!
+[2025-10-11 22:56:08.286] [warning] Unable to open usb!
+[2025-10-11 22:56:08.687] [warning] Not found camera!
+[2025-10-11 22:56:08.787] [warning] Unable to open usb!
+[2025-10-11 22:56:09.188] [warning] Not found camera!
+[2025-10-11 22:56:09.288] [warning] Unable to open usb!
+[2025-10-11 22:56:09.689] [warning] Not found camera!
+[2025-10-11 22:56:09.789] [warning] Unable to open usb!
+[2025-10-11 22:56:10.190] [warning] Not found camera!
+[2025-10-11 22:56:10.291] [warning] Unable to open usb!
+[2025-10-11 22:56:10.491] [warning] Not found camera!
+[2025-10-11 22:56:10.591] [warning] Unable to open usb!
+[2025-10-11 22:56:10.993] [warning] Not found camera!
+[2025-10-11 22:56:11.093] [warning] Unable to open usb!
+[2025-10-11 22:56:11.494] [warning] Not found camera!
+[2025-10-11 22:56:11.594] [warning] Unable to open usb!
+[2025-10-11 22:56:11.995] [warning] Not found camera!
+[2025-10-11 22:56:12.095] [warning] Unable to open usb!
+[2025-10-11 22:56:12.496] [warning] Not found camera!
+[2025-10-11 22:56:12.596] [warning] Unable to open usb!
+[2025-10-11 22:56:12.998] [warning] Not found camera!
+[2025-10-11 22:56:13.098] [warning] Unable to open usb!
+[2025-10-11 22:56:13.499] [warning] Not found camera!
+[2025-10-11 22:56:13.599] [warning] Unable to open usb!
+[2025-10-11 22:56:14.000] [warning] Not found camera!
+[2025-10-11 22:56:14.100] [warning] Unable to open usb!
+[2025-10-11 22:56:14.501] [warning] Not found camera!
+[2025-10-11 22:56:14.601] [warning] Unable to open usb!
+[2025-10-11 22:56:15.002] [warning] Not found camera!
+[2025-10-11 22:56:15.103] [warning] Unable to open usb!
+[2025-10-11 22:56:15.303] [warning] Not found camera!
+[2025-10-11 22:56:15.404] [warning] Unable to open usb!
+[2025-10-11 22:56:15.805] [warning] Not found camera!
+[2025-10-11 22:56:15.905] [warning] Unable to open usb!
+[2025-10-11 22:56:16.306] [warning] Not found camera!
+[2025-10-11 22:56:16.406] [warning] Unable to open usb!
+[2025-10-11 22:56:16.807] [warning] Not found camera!
+[2025-10-11 22:56:16.907] [warning] Unable to open usb!
+[2025-10-11 22:56:17.308] [warning] Not found camera!
+[2025-10-11 22:56:17.409] [warning] Unable to open usb!
+[2025-10-11 22:56:17.810] [warning] Not found camera!
+[2025-10-11 22:56:17.910] [warning] Unable to open usb!
+[2025-10-11 22:56:18.311] [warning] Not found camera!
+[2025-10-11 22:56:18.411] [warning] Unable to open usb!
+[2025-10-11 22:56:18.612] [warning] Not found camera!
+[2025-10-11 22:56:18.712] [warning] Unable to open usb!
+[2025-10-11 22:56:18.913] [warning] Not found camera!
+[2025-10-11 22:56:19.013] [warning] Unable to open usb!
+[2025-10-11 22:56:19.414] [warning] Not found camera!
+[2025-10-11 22:56:19.514] [warning] Unable to open usb!
+[2025-10-11 22:56:19.915] [warning] Not found camera!
+[2025-10-11 22:56:20.016] [warning] Unable to open usb!
+[2025-10-11 22:56:20.417] [warning] Not found camera!
+[2025-10-11 22:56:20.517] [warning] Unable to open usb!
+[2025-10-11 22:56:20.717] [warning] Not found camera!
+[2025-10-11 22:56:20.818] [warning] Unable to open usb!
+[2025-10-11 22:56:21.018] [warning] Not found camera!
+[2025-10-11 22:56:21.118] [warning] Unable to open usb!
+[2025-10-11 22:56:21.519] [warning] Not found camera!
+[2025-10-11 22:56:21.620] [warning] Unable to open usb!
+[2025-10-11 22:56:22.021] [warning] Not found camera!
+[2025-10-11 22:56:22.121] [warning] Unable to open usb!
+[2025-10-11 22:56:22.522] [warning] Not found camera!
+[2025-10-11 22:56:22.622] [warning] Unable to open usb!
+[2025-10-11 22:56:23.023] [warning] Not found camera!
+[2025-10-11 22:56:23.124] [warning] Unable to open usb!
+[2025-10-11 22:56:23.325] [warning] Not found camera!
+[2025-10-11 22:56:23.425] [warning] Unable to open usb!
+[2025-10-11 22:56:23.826] [warning] Not found camera!
+[2025-10-11 22:56:23.926] [warning] Unable to open usb!
+[2025-10-11 22:56:24.327] [warning] Not found camera!
+[2025-10-11 22:56:24.427] [warning] Unable to open usb!
+[2025-10-11 22:56:24.828] [warning] Not found camera!
+[2025-10-11 22:56:24.928] [warning] Unable to open usb!
+[2025-10-11 22:56:25.329] [warning] Not found camera!
+[2025-10-11 22:56:25.430] [warning] Unable to open usb!
+[2025-10-11 22:56:25.831] [warning] Not found camera!
+[2025-10-11 22:56:25.931] [warning] Unable to open usb!
+[2025-10-11 22:56:26.132] [warning] Not found camera!
+[2025-10-11 22:56:26.232] [warning] Unable to open usb!
+[2025-10-11 22:56:26.633] [warning] Not found camera!
+[2025-10-11 22:56:26.733] [warning] Unable to open usb!
+[2025-10-11 22:56:27.134] [warning] Not found camera!
+[2025-10-11 22:56:27.235] [warning] Unable to open usb!
+[2025-10-11 22:56:27.636] [warning] Not found camera!
+[2025-10-11 22:56:27.736] [warning] Unable to open usb!
+[2025-10-11 22:56:28.137] [warning] Not found camera!
+[2025-10-11 22:56:28.237] [warning] Unable to open usb!
+[2025-10-11 22:56:28.638] [warning] Not found camera!
+[2025-10-11 22:56:28.739] [warning] Unable to open usb!
+[2025-10-11 22:56:29.140] [warning] Not found camera!
+[2025-10-11 22:56:29.240] [warning] Unable to open usb!
+[2025-10-11 22:56:29.440] [warning] Not found camera!
+[2025-10-11 22:56:29.540] [warning] Unable to open usb!
+[2025-10-11 22:56:29.741] [warning] Not found camera!
+[2025-10-11 22:56:29.841] [warning] Unable to open usb!
+[2025-10-11 22:56:30.042] [warning] Not found camera!
+[2025-10-11 22:56:30.142] [warning] Unable to open usb!
+[2025-10-11 22:56:30.343] [warning] Not found camera!
+[2025-10-11 22:56:30.443] [warning] Unable to open usb!
+[2025-10-11 22:56:30.644] [warning] Not found camera!
+[2025-10-11 22:56:30.744] [warning] Unable to open usb!
+[2025-10-11 22:56:31.145] [warning] Not found camera!
+[2025-10-11 22:56:31.245] [warning] Unable to open usb!
+[2025-10-11 22:56:31.445] [warning] Not found camera!
+[2025-10-11 22:56:31.546] [warning] Unable to open usb!
+[2025-10-11 22:56:31.947] [warning] Not found camera!
+[2025-10-11 22:56:32.047] [warning] Unable to open usb!
+[2025-10-11 22:56:32.247] [warning] Not found camera!
+[2025-10-11 22:56:32.347] [warning] Unable to open usb!
+[2025-10-11 22:56:32.748] [warning] Not found camera!
+[2025-10-11 22:56:32.849] [warning] Unable to open usb!
+[2025-10-11 22:56:33.049] [warning] Not found camera!
+[2025-10-11 22:56:33.149] [warning] Unable to open usb!
+[2025-10-11 22:56:33.550] [warning] Not found camera!
+[2025-10-11 22:56:33.651] [warning] Unable to open usb!
+[2025-10-11 22:56:33.851] [warning] Not found camera!
+[2025-10-11 22:56:33.951] [warning] Unable to open usb!
+[2025-10-11 22:56:34.352] [warning] Not found camera!
+[2025-10-11 22:56:34.453] [warning] Unable to open usb!
+[2025-10-11 22:56:34.653] [warning] Not found camera!
+[2025-10-11 22:56:34.753] [warning] Unable to open usb!
+[2025-10-11 22:56:34.954] [warning] Not found camera!
+[2025-10-11 22:56:35.054] [warning] Unable to open usb!
+[2025-10-11 22:56:35.255] [warning] Not found camera!
+[2025-10-11 22:56:35.355] [warning] Unable to open usb!
+[2025-10-11 22:56:35.756] [warning] Not found camera!
+[2025-10-11 22:56:35.856] [warning] Unable to open usb!
+[2025-10-11 22:56:36.257] [warning] Not found camera!
+[2025-10-11 22:56:36.358] [warning] Unable to open usb!
+[2025-10-11 22:56:36.759] [warning] Not found camera!
+[2025-10-11 22:56:36.859] [warning] Unable to open usb!
+[2025-10-11 22:56:37.060] [warning] Not found camera!
+[2025-10-11 22:56:37.160] [warning] Unable to open usb!
+[2025-10-11 22:56:37.361] [warning] Not found camera!
+[2025-10-11 22:56:37.461] [warning] Unable to open usb!
+[2025-10-11 22:56:37.862] [warning] Not found camera!
+[2025-10-11 22:56:37.962] [warning] Unable to open usb!
+[2025-10-11 22:56:38.363] [warning] Not found camera!
+[2025-10-11 22:56:38.463] [warning] Unable to open usb!
+[2025-10-11 22:56:38.865] [warning] Not found camera!
+[2025-10-11 22:56:38.965] [warning] Unable to open usb!
+[2025-10-11 22:56:39.366] [warning] Not found camera!
+[2025-10-11 22:56:39.466] [warning] Unable to open usb!
+[2025-10-11 22:56:39.867] [warning] Not found camera!
+[2025-10-11 22:56:39.968] [warning] Unable to open usb!
+[2025-10-11 22:56:40.369] [warning] Not found camera!
+[2025-10-11 22:56:40.469] [warning] Unable to open usb!
+[2025-10-11 22:56:40.669] [warning] Not found camera!
+[2025-10-11 22:56:40.770] [warning] Unable to open usb!
+[2025-10-11 22:56:40.970] [warning] Not found camera!
+[2025-10-11 22:56:41.070] [warning] Unable to open usb!
+[2025-10-11 22:56:41.271] [warning] Not found camera!
+[2025-10-11 22:56:41.371] [warning] Unable to open usb!
+[2025-10-11 22:56:41.572] [warning] Not found camera!
+[2025-10-11 22:56:41.672] [warning] Unable to open usb!
+[2025-10-11 22:56:42.073] [warning] Not found camera!
+[2025-10-11 22:56:42.173] [warning] Unable to open usb!
+[2025-10-11 22:56:42.575] [warning] Not found camera!
+[2025-10-11 22:56:42.675] [warning] Unable to open usb!
+[2025-10-11 22:56:43.076] [warning] Not found camera!
+[2025-10-11 22:56:43.177] [warning] Unable to open usb!
+[2025-10-11 22:56:43.578] [warning] Not found camera!
+[2025-10-11 22:56:43.678] [warning] Unable to open usb!
+[2025-10-11 22:56:44.079] [warning] Not found camera!
+[2025-10-11 22:56:44.179] [warning] Unable to open usb!
+[2025-10-11 22:56:44.380] [warning] Not found camera!
+[2025-10-11 22:56:44.480] [warning] Unable to open usb!
+[2025-10-11 22:56:44.882] [warning] Not found camera!
+[2025-10-11 22:56:44.982] [warning] Unable to open usb!
+[2025-10-11 22:56:45.183] [warning] Not found camera!
+[2025-10-11 22:56:45.283] [warning] Unable to open usb!
+[2025-10-11 22:56:45.684] [warning] Not found camera!
+[2025-10-11 22:56:45.784] [warning] Unable to open usb!
+[2025-10-11 22:56:46.185] [warning] Not found camera!
+[2025-10-11 22:56:46.286] [warning] Unable to open usb!
+[2025-10-11 22:56:46.687] [warning] Not found camera!
+[2025-10-11 22:56:46.787] [warning] Unable to open usb!
+[2025-10-11 22:56:47.188] [warning] Not found camera!
+[2025-10-11 22:56:47.288] [warning] Unable to open usb!
+[2025-10-11 22:56:47.689] [warning] Not found camera!
+[2025-10-11 22:56:47.789] [warning] Unable to open usb!
+[2025-10-11 22:56:47.990] [warning] Not found camera!
+[2025-10-11 22:56:48.090] [warning] Unable to open usb!
+[2025-10-11 22:56:48.291] [warning] Not found camera!
+[2025-10-11 22:56:48.391] [warning] Unable to open usb!
+[2025-10-11 22:56:48.591] [warning] Not found camera!
+[2025-10-11 22:56:48.692] [warning] Unable to open usb!
+[2025-10-11 22:56:48.892] [warning] Not found camera!
+[2025-10-11 22:56:48.992] [warning] Unable to open usb!
+[2025-10-11 22:56:49.193] [warning] Not found camera!
+[2025-10-11 22:56:49.293] [warning] Unable to open usb!
+[2025-10-11 22:56:49.695] [warning] Not found camera!
+[2025-10-11 22:56:49.795] [warning] Unable to open usb!
+[2025-10-11 22:56:50.196] [warning] Not found camera!
+[2025-10-11 22:56:50.296] [warning] Unable to open usb!
+[2025-10-11 22:56:50.697] [warning] Not found camera!
+[2025-10-11 22:56:50.797] [warning] Unable to open usb!
+[2025-10-11 22:56:51.198] [warning] Not found camera!
+[2025-10-11 22:56:51.298] [warning] Unable to open usb!
+[2025-10-11 22:56:51.699] [warning] Not found camera!
+[2025-10-11 22:56:51.799] [warning] Unable to open usb!
+[2025-10-11 22:56:52.200] [warning] Not found camera!
+[2025-10-11 22:56:52.300] [warning] Unable to open usb!
+[2025-10-11 22:56:52.701] [warning] Not found camera!
+[2025-10-11 22:56:52.802] [warning] Unable to open usb!
+[2025-10-11 22:56:53.202] [warning] Not found camera!
+[2025-10-11 22:56:53.303] [warning] Unable to open usb!
+[2025-10-11 22:56:53.703] [warning] Not found camera!
+[2025-10-11 22:56:53.804] [warning] Unable to open usb!
+[2025-10-11 22:56:54.204] [warning] Not found camera!
+[2025-10-11 22:56:54.304] [warning] Unable to open usb!
+[2025-10-11 22:56:54.705] [warning] Not found camera!
+[2025-10-11 22:56:54.806] [warning] Unable to open usb!
+[2025-10-11 22:56:55.006] [warning] Not found camera!
+[2025-10-11 22:56:55.106] [warning] Unable to open usb!
+[2025-10-11 22:56:55.507] [warning] Not found camera!
+[2025-10-11 22:56:55.607] [warning] Unable to open usb!
+[2025-10-11 22:56:55.808] [warning] Not found camera!
+[2025-10-11 22:56:55.908] [warning] Unable to open usb!
+[2025-10-11 22:56:56.309] [warning] Not found camera!
+[2025-10-11 22:56:56.409] [warning] Unable to open usb!
+[2025-10-11 22:56:56.810] [warning] Not found camera!
+[2025-10-11 22:56:56.910] [warning] Unable to open usb!
+[2025-10-11 22:56:57.111] [warning] Not found camera!
+[2025-10-11 22:56:57.211] [warning] Unable to open usb!
+[2025-10-11 22:56:57.412] [warning] Not found camera!
+[2025-10-11 22:56:57.512] [warning] Unable to open usb!
+[2025-10-11 22:56:57.712] [warning] Not found camera!
+[2025-10-11 22:56:57.813] [warning] Unable to open usb!
+[2025-10-11 22:56:58.013] [warning] Not found camera!
+[2025-10-11 22:56:58.114] [warning] Unable to open usb!
+[2025-10-11 22:56:58.314] [warning] Not found camera!
+[2025-10-11 22:56:58.414] [warning] Unable to open usb!
+[2025-10-11 22:56:58.815] [warning] Not found camera!
+[2025-10-11 22:56:58.915] [warning] Unable to open usb!
+[2025-10-11 22:56:59.116] [warning] Not found camera!
+[2025-10-11 22:56:59.216] [warning] Unable to open usb!
+[2025-10-11 22:56:59.416] [warning] Not found camera!
+[2025-10-11 22:56:59.516] [warning] Unable to open usb!
+[2025-10-11 22:56:59.717] [warning] Not found camera!
+[2025-10-11 22:56:59.817] [warning] Unable to open usb!
+[2025-10-11 22:57:00.018] [warning] Not found camera!
+[2025-10-11 22:57:00.118] [warning] Unable to open usb!
+[2025-10-11 22:57:00.319] [warning] Not found camera!
+[2025-10-11 22:57:00.419] [warning] Unable to open usb!
+[2025-10-11 22:57:00.619] [warning] Not found camera!
+[2025-10-11 22:57:00.719] [warning] Unable to open usb!
+[2025-10-11 22:57:01.120] [warning] Not found camera!
+[2025-10-11 22:57:01.220] [warning] Unable to open usb!
+[2025-10-11 22:57:01.621] [warning] Not found camera!
+[2025-10-11 22:57:01.721] [warning] Unable to open usb!
+[2025-10-11 22:57:02.122] [warning] Not found camera!
+[2025-10-11 22:57:02.222] [warning] Unable to open usb!
+[2025-10-11 22:57:02.623] [warning] Not found camera!
+[2025-10-11 22:57:02.723] [warning] Unable to open usb!
+[2025-10-11 22:57:03.124] [warning] Not found camera!
+[2025-10-11 22:57:03.224] [warning] Unable to open usb!
+[2025-10-11 22:57:03.625] [warning] Not found camera!
+[2025-10-11 22:57:03.725] [warning] Unable to open usb!
+[2025-10-11 22:57:04.126] [warning] Not found camera!
+[2025-10-11 22:57:04.226] [warning] Unable to open usb!
+[2025-10-11 22:57:04.627] [warning] Not found camera!
+[2025-10-11 22:57:04.727] [warning] Unable to open usb!
+[2025-10-11 22:57:05.128] [warning] Not found camera!
+[2025-10-11 22:57:05.228] [warning] Unable to open usb!
+[2025-10-11 22:57:05.629] [warning] Not found camera!
+[2025-10-11 22:57:05.729] [warning] Unable to open usb!
+[2025-10-11 22:57:06.130] [warning] Not found camera!
+[2025-10-11 22:57:06.230] [warning] Unable to open usb!
+[2025-10-11 22:57:06.431] [warning] Not found camera!
+[2025-10-11 22:57:06.531] [warning] Unable to open usb!
+[2025-10-11 22:57:07.132] [warning] Not found camera!
+[2025-10-11 22:57:07.232] [warning] Unable to open usb!
+[2025-10-11 22:57:07.433] [warning] Not found camera!
+[2025-10-11 22:57:07.533] [warning] Unable to open usb!
+[2025-10-11 22:57:07.935] [warning] Not found camera!
+[2025-10-11 22:57:08.035] [warning] Unable to open usb!
+[2025-10-11 22:57:08.636] [warning] Not found camera!
+[2025-10-11 22:57:08.737] [warning] Unable to open usb!
+[2025-10-11 22:57:09.138] [warning] Not found camera!
+[2025-10-11 22:57:09.238] [warning] Unable to open usb!
+[2025-10-11 22:57:09.639] [warning] Not found camera!
+[2025-10-11 22:57:09.739] [warning] Unable to open usb!
+[2025-10-11 22:57:10.140] [warning] Not found camera!
+[2025-10-11 22:57:10.240] [warning] Unable to open usb!
+[2025-10-11 22:57:10.642] [warning] Not found camera!
+[2025-10-11 22:57:10.742] [warning] Unable to open usb!
+[2025-10-11 22:57:11.143] [warning] Not found camera!
+[2025-10-11 22:57:11.243] [warning] Unable to open usb!
+[2025-10-11 22:57:11.644] [warning] Not found camera!
+[2025-10-11 22:57:11.744] [warning] Unable to open usb!
+[2025-10-11 22:57:11.944] [warning] Not found camera!
+[2025-10-11 22:57:12.044] [warning] Unable to open usb!
+[2025-10-11 22:57:12.445] [warning] Not found camera!
+[2025-10-11 22:57:12.545] [warning] Unable to open usb!
+[2025-10-11 22:57:12.946] [warning] Not found camera!
+[2025-10-11 22:57:13.046] [warning] Unable to open usb!
+[2025-10-11 22:57:13.447] [warning] Not found camera!
+[2025-10-11 22:57:13.547] [warning] Unable to open usb!
+[2025-10-11 22:57:13.948] [warning] Not found camera!
+[2025-10-11 22:57:14.048] [warning] Unable to open usb!
+[2025-10-11 22:57:14.449] [warning] Not found camera!
+[2025-10-11 22:57:14.549] [warning] Unable to open usb!
+[2025-10-11 22:57:14.950] [warning] Not found camera!
+[2025-10-11 22:57:15.050] [warning] Unable to open usb!
+[2025-10-11 22:57:15.451] [warning] Not found camera!
+[2025-10-11 22:57:15.551] [warning] Unable to open usb!
+[2025-10-11 22:57:15.952] [warning] Not found camera!
+[2025-10-11 22:57:16.052] [warning] Unable to open usb!
+[2025-10-11 22:57:16.653] [warning] Not found camera!
+[2025-10-11 22:57:16.753] [warning] Unable to open usb!
+[2025-10-11 22:57:17.154] [warning] Not found camera!
+[2025-10-11 22:57:17.255] [warning] Unable to open usb!
+[2025-10-11 22:57:17.655] [warning] Not found camera!
+[2025-10-11 22:57:17.755] [warning] Unable to open usb!
+[2025-10-11 22:57:18.156] [warning] Not found camera!
+[2025-10-11 22:57:18.256] [warning] Unable to open usb!
+[2025-10-11 22:57:18.657] [warning] Not found camera!
+[2025-10-11 22:57:18.757] [warning] Unable to open usb!
+[2025-10-11 22:57:19.158] [warning] Not found camera!
+[2025-10-11 22:57:19.258] [warning] Unable to open usb!
+[2025-10-11 22:57:19.659] [warning] Not found camera!
+[2025-10-11 22:57:19.759] [warning] Unable to open usb!
+[2025-10-11 22:57:19.960] [warning] Not found camera!
+[2025-10-11 22:57:20.060] [warning] Unable to open usb!
+[2025-10-11 22:57:20.261] [warning] Not found camera!
+[2025-10-11 22:57:20.361] [warning] Unable to open usb!
+[2025-10-11 22:57:20.762] [warning] Not found camera!
+[2025-10-11 22:57:20.862] [warning] Unable to open usb!
+[2025-10-11 22:57:21.263] [warning] Not found camera!
+[2025-10-11 22:57:21.363] [warning] Unable to open usb!
+[2025-10-11 22:57:21.764] [warning] Not found camera!
+[2025-10-11 22:57:21.864] [warning] Unable to open usb!
+[2025-10-11 22:57:22.465] [warning] Not found camera!
+[2025-10-11 22:57:22.565] [warning] Unable to open usb!
+[2025-10-11 22:57:23.167] [warning] Not found camera!
+[2025-10-11 22:57:23.267] [warning] Unable to open usb!
+[2025-10-11 22:57:23.668] [warning] Not found camera!
+[2025-10-11 22:57:23.768] [warning] Unable to open usb!
+[2025-10-11 22:57:24.169] [warning] Not found camera!
+[2025-10-11 22:57:24.269] [warning] Unable to open usb!
+[2025-10-11 22:57:24.469] [warning] Not found camera!
+[2025-10-11 22:57:24.570] [warning] Unable to open usb!
+[2025-10-11 22:57:24.970] [warning] Not found camera!
+[2025-10-11 22:57:25.070] [warning] Unable to open usb!
+[2025-10-11 22:57:25.271] [warning] Not found camera!
+[2025-10-11 22:57:25.371] [warning] Unable to open usb!
+[2025-10-11 22:57:25.973] [warning] Not found camera!
+[2025-10-11 22:57:26.073] [warning] Unable to open usb!
+[2025-10-11 22:57:26.474] [warning] Not found camera!
+[2025-10-11 22:57:26.574] [warning] Unable to open usb!
+[2025-10-11 22:57:26.976] [warning] Not found camera!
+[2025-10-11 22:57:27.076] [warning] Unable to open usb!
+[2025-10-11 22:57:27.477] [warning] Not found camera!
+[2025-10-11 22:57:27.577] [warning] Unable to open usb!
+[2025-10-11 22:57:27.979] [warning] Not found camera!
+[2025-10-11 22:57:28.079] [warning] Unable to open usb!
+[2025-10-11 22:57:28.480] [warning] Not found camera!
+[2025-10-11 22:57:28.580] [warning] Unable to open usb!
+[2025-10-11 22:57:28.982] [warning] Not found camera!
+[2025-10-11 22:57:29.082] [warning] Unable to open usb!
+[2025-10-11 22:57:29.483] [warning] Not found camera!
+[2025-10-11 22:57:29.583] [warning] Unable to open usb!
+[2025-10-11 22:57:29.985] [warning] Not found camera!
+[2025-10-11 22:57:30.085] [warning] Unable to open usb!
+[2025-10-11 22:57:30.486] [warning] Not found camera!
+[2025-10-11 22:57:30.586] [warning] Unable to open usb!
+[2025-10-11 22:57:30.987] [warning] Not found camera!
+[2025-10-11 22:57:31.087] [warning] Unable to open usb!
+[2025-10-11 22:57:31.488] [warning] Not found camera!
+[2025-10-11 22:57:31.588] [warning] Unable to open usb!
+[2025-10-11 22:57:31.989] [warning] Not found camera!
+[2025-10-11 22:57:32.089] [warning] Unable to open usb!
+[2025-10-11 22:57:32.290] [warning] Not found camera!
+[2025-10-11 22:57:32.390] [warning] Unable to open usb!
+[2025-10-11 22:57:32.791] [warning] Not found camera!
+[2025-10-11 22:57:32.891] [warning] Unable to open usb!
+[2025-10-11 22:57:33.292] [warning] Not found camera!
+[2025-10-11 22:57:33.392] [warning] Unable to open usb!
+[2025-10-11 22:57:33.793] [warning] Not found camera!
+[2025-10-11 22:57:33.894] [warning] Unable to open usb!
+[2025-10-11 22:57:34.295] [warning] Not found camera!
+[2025-10-11 22:57:34.395] [warning] Unable to open usb!
+[2025-10-11 22:57:34.795] [warning] Not found camera!
+[2025-10-11 22:57:34.896] [warning] Unable to open usb!
+[2025-10-11 22:57:35.296] [warning] Not found camera!
+[2025-10-11 22:57:35.397] [warning] Unable to open usb!
+[2025-10-11 22:57:35.597] [warning] Not found camera!
+[2025-10-11 22:57:35.697] [warning] Unable to open usb!
+[2025-10-11 22:57:36.098] [warning] Not found camera!
+[2025-10-11 22:57:36.198] [warning] Unable to open usb!
+[2025-10-11 22:57:36.599] [warning] Not found camera!
+[2025-10-11 22:57:36.699] [warning] Unable to open usb!
+[2025-10-11 22:57:37.100] [warning] Not found camera!
+[2025-10-11 22:57:37.201] [warning] Unable to open usb!
+[2025-10-11 22:57:37.401] [warning] Not found camera!
+[2025-10-11 22:57:37.501] [warning] Unable to open usb!
+[2025-10-11 22:57:37.702] [warning] Not found camera!
+[2025-10-11 22:57:37.802] [warning] Unable to open usb!
+[2025-10-11 22:57:38.203] [warning] Not found camera!
+[2025-10-11 22:57:38.303] [warning] Unable to open usb!
+[2025-10-11 22:57:38.504] [warning] Not found camera!
+[2025-10-11 22:57:38.604] [warning] Unable to open usb!
+[2025-10-11 22:57:38.805] [warning] Not found camera!
+[2025-10-11 22:57:38.905] [warning] Unable to open usb!
+[2025-10-11 22:57:39.306] [warning] Not found camera!
+[2025-10-11 22:57:39.406] [warning] Unable to open usb!
+[2025-10-11 22:57:39.807] [warning] Not found camera!
+[2025-10-11 22:57:39.907] [warning] Unable to open usb!
+[2025-10-11 22:57:40.509] [warning] Not found camera!
+[2025-10-11 22:57:40.609] [warning] Unable to open usb!
+[2025-10-11 22:57:41.010] [warning] Not found camera!
+[2025-10-11 22:57:41.110] [warning] Unable to open usb!
+[2025-10-11 22:57:41.511] [warning] Not found camera!
+[2025-10-11 22:57:41.611] [warning] Unable to open usb!
+[2025-10-11 22:57:42.013] [warning] Not found camera!
+[2025-10-11 22:57:42.113] [warning] Unable to open usb!
+[2025-10-11 22:57:42.514] [warning] Not found camera!
+[2025-10-11 22:57:42.614] [warning] Unable to open usb!
+[2025-10-11 22:57:43.015] [warning] Not found camera!
+[2025-10-11 22:57:43.115] [warning] Unable to open usb!
+[2025-10-11 22:57:43.516] [warning] Not found camera!
+[2025-10-11 22:57:43.616] [warning] Unable to open usb!
+[2025-10-11 22:57:43.817] [warning] Not found camera!
+[2025-10-11 22:57:43.917] [warning] Unable to open usb!
+[2025-10-11 22:57:44.118] [warning] Not found camera!
+[2025-10-11 22:57:44.218] [warning] Unable to open usb!
+[2025-10-11 22:57:44.619] [warning] Not found camera!
+[2025-10-11 22:57:44.719] [warning] Unable to open usb!
+[2025-10-11 22:57:45.120] [warning] Not found camera!
+[2025-10-11 22:57:45.220] [warning] Unable to open usb!
+[2025-10-11 22:57:45.621] [warning] Not found camera!
+[2025-10-11 22:57:45.721] [warning] Unable to open usb!
+[2025-10-11 22:57:45.922] [warning] Not found camera!
+[2025-10-11 22:57:46.022] [warning] Unable to open usb!
+[2025-10-11 22:57:46.423] [warning] Not found camera!
+[2025-10-11 22:57:46.524] [warning] Unable to open usb!
+[2025-10-11 22:57:46.925] [warning] Not found camera!
+[2025-10-11 22:57:47.025] [warning] Unable to open usb!

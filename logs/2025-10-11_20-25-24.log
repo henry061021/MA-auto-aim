@@ -1,0 +1,1118 @@
+[2025-10-11 20:25:24.694] [info] 默认标定板尺寸为10列7行
+[2025-10-11 20:25:24.708] [info] SocketCAN opened.
+[2025-10-11 20:25:24.708] [info] [Cboard] Waiting for q...
+[2025-10-11 20:25:24.708] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:24.808] [info] SocketCAN opened.
+[2025-10-11 20:25:24.808] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:24.908] [info] SocketCAN opened.
+[2025-10-11 20:25:24.909] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:25.009] [info] SocketCAN opened.
+[2025-10-11 20:25:25.009] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:25.109] [info] SocketCAN opened.
+[2025-10-11 20:25:25.109] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:25.209] [info] SocketCAN opened.
+[2025-10-11 20:25:25.209] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:25.309] [info] SocketCAN opened.
+[2025-10-11 20:25:25.310] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:25.410] [info] SocketCAN opened.
+[2025-10-11 20:25:25.410] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:25.510] [info] SocketCAN opened.
+[2025-10-11 20:25:25.510] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:25.610] [info] SocketCAN opened.
+[2025-10-11 20:25:25.610] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:25.710] [info] SocketCAN opened.
+[2025-10-11 20:25:25.711] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:25.811] [info] SocketCAN opened.
+[2025-10-11 20:25:25.811] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:25.911] [info] SocketCAN opened.
+[2025-10-11 20:25:25.911] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:26.011] [info] SocketCAN opened.
+[2025-10-11 20:25:26.012] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:26.112] [info] SocketCAN opened.
+[2025-10-11 20:25:26.112] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:26.212] [info] SocketCAN opened.
+[2025-10-11 20:25:26.212] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:26.312] [info] SocketCAN opened.
+[2025-10-11 20:25:26.312] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:26.413] [info] SocketCAN opened.
+[2025-10-11 20:25:26.413] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:26.513] [info] SocketCAN opened.
+[2025-10-11 20:25:26.513] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:26.613] [info] SocketCAN opened.
+[2025-10-11 20:25:26.613] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:26.713] [info] SocketCAN opened.
+[2025-10-11 20:25:26.714] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:26.814] [info] SocketCAN opened.
+[2025-10-11 20:25:26.814] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:26.914] [info] SocketCAN opened.
+[2025-10-11 20:25:26.914] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:27.014] [info] SocketCAN opened.
+[2025-10-11 20:25:27.015] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:27.115] [info] SocketCAN opened.
+[2025-10-11 20:25:27.115] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:27.215] [info] SocketCAN opened.
+[2025-10-11 20:25:27.215] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:27.315] [info] SocketCAN opened.
+[2025-10-11 20:25:27.316] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:27.416] [info] SocketCAN opened.
+[2025-10-11 20:25:27.416] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:27.516] [info] SocketCAN opened.
+[2025-10-11 20:25:27.516] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:27.616] [info] SocketCAN opened.
+[2025-10-11 20:25:27.616] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:27.717] [info] SocketCAN opened.
+[2025-10-11 20:25:27.717] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:27.818] [info] SocketCAN opened.
+[2025-10-11 20:25:27.818] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:27.918] [info] SocketCAN opened.
+[2025-10-11 20:25:27.918] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:28.018] [info] SocketCAN opened.
+[2025-10-11 20:25:28.018] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:28.118] [info] SocketCAN opened.
+[2025-10-11 20:25:28.119] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:28.219] [info] SocketCAN opened.
+[2025-10-11 20:25:28.219] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:28.319] [info] SocketCAN opened.
+[2025-10-11 20:25:28.319] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:28.419] [info] SocketCAN opened.
+[2025-10-11 20:25:28.419] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:28.519] [info] SocketCAN opened.
+[2025-10-11 20:25:28.520] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:28.620] [info] SocketCAN opened.
+[2025-10-11 20:25:28.620] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:28.720] [info] SocketCAN opened.
+[2025-10-11 20:25:28.720] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:28.820] [info] SocketCAN opened.
+[2025-10-11 20:25:28.820] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:28.920] [info] SocketCAN opened.
+[2025-10-11 20:25:28.921] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:29.021] [info] SocketCAN opened.
+[2025-10-11 20:25:29.021] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:29.121] [info] SocketCAN opened.
+[2025-10-11 20:25:29.121] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:29.221] [info] SocketCAN opened.
+[2025-10-11 20:25:29.221] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:29.321] [info] SocketCAN opened.
+[2025-10-11 20:25:29.321] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:29.421] [info] SocketCAN opened.
+[2025-10-11 20:25:29.422] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:29.522] [info] SocketCAN opened.
+[2025-10-11 20:25:29.522] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:29.622] [info] SocketCAN opened.
+[2025-10-11 20:25:29.622] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:29.722] [info] SocketCAN opened.
+[2025-10-11 20:25:29.722] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:29.823] [info] SocketCAN opened.
+[2025-10-11 20:25:29.823] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:29.923] [info] SocketCAN opened.
+[2025-10-11 20:25:29.923] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:30.024] [info] SocketCAN opened.
+[2025-10-11 20:25:30.024] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:30.125] [info] SocketCAN opened.
+[2025-10-11 20:25:30.125] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:30.225] [info] SocketCAN opened.
+[2025-10-11 20:25:30.226] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:30.326] [info] SocketCAN opened.
+[2025-10-11 20:25:30.326] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:30.426] [info] SocketCAN opened.
+[2025-10-11 20:25:30.427] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:30.527] [info] SocketCAN opened.
+[2025-10-11 20:25:30.527] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:30.628] [info] SocketCAN opened.
+[2025-10-11 20:25:30.628] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:30.728] [info] SocketCAN opened.
+[2025-10-11 20:25:30.729] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:30.829] [info] SocketCAN opened.
+[2025-10-11 20:25:30.829] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:30.929] [info] SocketCAN opened.
+[2025-10-11 20:25:30.929] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:31.029] [info] SocketCAN opened.
+[2025-10-11 20:25:31.030] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:31.130] [info] SocketCAN opened.
+[2025-10-11 20:25:31.130] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:31.230] [info] SocketCAN opened.
+[2025-10-11 20:25:31.230] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:31.330] [info] SocketCAN opened.
+[2025-10-11 20:25:31.330] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:31.430] [info] SocketCAN opened.
+[2025-10-11 20:25:31.431] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:31.531] [info] SocketCAN opened.
+[2025-10-11 20:25:31.531] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:31.631] [info] SocketCAN opened.
+[2025-10-11 20:25:31.631] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:31.731] [info] SocketCAN opened.
+[2025-10-11 20:25:31.731] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:31.831] [info] SocketCAN opened.
+[2025-10-11 20:25:31.832] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:31.932] [info] SocketCAN opened.
+[2025-10-11 20:25:31.932] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:32.032] [info] SocketCAN opened.
+[2025-10-11 20:25:32.032] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:32.132] [info] SocketCAN opened.
+[2025-10-11 20:25:32.133] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:32.233] [info] SocketCAN opened.
+[2025-10-11 20:25:32.233] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:32.333] [info] SocketCAN opened.
+[2025-10-11 20:25:32.333] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:32.433] [info] SocketCAN opened.
+[2025-10-11 20:25:32.433] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:32.533] [info] SocketCAN opened.
+[2025-10-11 20:25:32.534] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:32.634] [info] SocketCAN opened.
+[2025-10-11 20:25:32.634] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:32.734] [info] SocketCAN opened.
+[2025-10-11 20:25:32.734] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:32.834] [info] SocketCAN opened.
+[2025-10-11 20:25:32.835] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:32.935] [info] SocketCAN opened.
+[2025-10-11 20:25:32.935] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:33.035] [info] SocketCAN opened.
+[2025-10-11 20:25:33.035] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:33.135] [info] SocketCAN opened.
+[2025-10-11 20:25:33.135] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:33.235] [info] SocketCAN opened.
+[2025-10-11 20:25:33.235] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:33.336] [info] SocketCAN opened.
+[2025-10-11 20:25:33.336] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:33.436] [info] SocketCAN opened.
+[2025-10-11 20:25:33.436] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:33.536] [info] SocketCAN opened.
+[2025-10-11 20:25:33.537] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:33.637] [info] SocketCAN opened.
+[2025-10-11 20:25:33.637] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:33.737] [info] SocketCAN opened.
+[2025-10-11 20:25:33.737] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:33.837] [info] SocketCAN opened.
+[2025-10-11 20:25:33.838] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:33.938] [info] SocketCAN opened.
+[2025-10-11 20:25:33.938] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:34.038] [info] SocketCAN opened.
+[2025-10-11 20:25:34.039] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:34.138] [info] SocketCAN opened.
+[2025-10-11 20:25:34.139] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:34.239] [info] SocketCAN opened.
+[2025-10-11 20:25:34.239] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:34.339] [info] SocketCAN opened.
+[2025-10-11 20:25:34.339] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:34.439] [info] SocketCAN opened.
+[2025-10-11 20:25:34.440] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:34.540] [info] SocketCAN opened.
+[2025-10-11 20:25:34.540] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:34.640] [info] SocketCAN opened.
+[2025-10-11 20:25:34.640] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:34.740] [info] SocketCAN opened.
+[2025-10-11 20:25:34.740] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:34.840] [info] SocketCAN opened.
+[2025-10-11 20:25:34.841] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:34.941] [info] SocketCAN opened.
+[2025-10-11 20:25:34.941] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:35.041] [info] SocketCAN opened.
+[2025-10-11 20:25:35.041] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:35.141] [info] SocketCAN opened.
+[2025-10-11 20:25:35.141] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:35.241] [info] SocketCAN opened.
+[2025-10-11 20:25:35.242] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:35.341] [info] SocketCAN opened.
+[2025-10-11 20:25:35.342] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:35.442] [info] SocketCAN opened.
+[2025-10-11 20:25:35.442] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:35.542] [info] SocketCAN opened.
+[2025-10-11 20:25:35.542] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:35.642] [info] SocketCAN opened.
+[2025-10-11 20:25:35.642] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:35.742] [info] SocketCAN opened.
+[2025-10-11 20:25:35.743] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:35.842] [info] SocketCAN opened.
+[2025-10-11 20:25:35.843] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:35.943] [info] SocketCAN opened.
+[2025-10-11 20:25:35.943] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:36.043] [info] SocketCAN opened.
+[2025-10-11 20:25:36.043] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:36.143] [info] SocketCAN opened.
+[2025-10-11 20:25:36.144] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:36.244] [info] SocketCAN opened.
+[2025-10-11 20:25:36.244] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:36.344] [info] SocketCAN opened.
+[2025-10-11 20:25:36.344] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:36.444] [info] SocketCAN opened.
+[2025-10-11 20:25:36.444] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:36.544] [info] SocketCAN opened.
+[2025-10-11 20:25:36.545] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:36.645] [info] SocketCAN opened.
+[2025-10-11 20:25:36.645] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:36.745] [info] SocketCAN opened.
+[2025-10-11 20:25:36.745] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:36.845] [info] SocketCAN opened.
+[2025-10-11 20:25:36.845] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:36.945] [info] SocketCAN opened.
+[2025-10-11 20:25:36.946] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:37.046] [info] SocketCAN opened.
+[2025-10-11 20:25:37.046] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:37.146] [info] SocketCAN opened.
+[2025-10-11 20:25:37.146] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:37.246] [info] SocketCAN opened.
+[2025-10-11 20:25:37.247] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:37.347] [info] SocketCAN opened.
+[2025-10-11 20:25:37.347] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:37.447] [info] SocketCAN opened.
+[2025-10-11 20:25:37.447] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:37.547] [info] SocketCAN opened.
+[2025-10-11 20:25:37.548] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:37.648] [info] SocketCAN opened.
+[2025-10-11 20:25:37.648] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:37.748] [info] SocketCAN opened.
+[2025-10-11 20:25:37.748] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:37.849] [info] SocketCAN opened.
+[2025-10-11 20:25:37.849] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:37.949] [info] SocketCAN opened.
+[2025-10-11 20:25:37.949] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:38.049] [info] SocketCAN opened.
+[2025-10-11 20:25:38.049] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:38.149] [info] SocketCAN opened.
+[2025-10-11 20:25:38.150] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:38.250] [info] SocketCAN opened.
+[2025-10-11 20:25:38.250] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:38.350] [info] SocketCAN opened.
+[2025-10-11 20:25:38.350] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:38.450] [info] SocketCAN opened.
+[2025-10-11 20:25:38.450] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:38.550] [info] SocketCAN opened.
+[2025-10-11 20:25:38.551] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:38.651] [info] SocketCAN opened.
+[2025-10-11 20:25:38.651] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:38.751] [info] SocketCAN opened.
+[2025-10-11 20:25:38.751] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:38.852] [info] SocketCAN opened.
+[2025-10-11 20:25:38.852] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:38.952] [info] SocketCAN opened.
+[2025-10-11 20:25:38.952] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:39.052] [info] SocketCAN opened.
+[2025-10-11 20:25:39.052] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:39.152] [info] SocketCAN opened.
+[2025-10-11 20:25:39.153] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:39.253] [info] SocketCAN opened.
+[2025-10-11 20:25:39.253] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:39.353] [info] SocketCAN opened.
+[2025-10-11 20:25:39.354] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:39.454] [info] SocketCAN opened.
+[2025-10-11 20:25:39.454] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:39.554] [info] SocketCAN opened.
+[2025-10-11 20:25:39.555] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:39.655] [info] SocketCAN opened.
+[2025-10-11 20:25:39.655] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:39.755] [info] SocketCAN opened.
+[2025-10-11 20:25:39.755] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:39.855] [info] SocketCAN opened.
+[2025-10-11 20:25:39.855] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:39.955] [info] SocketCAN opened.
+[2025-10-11 20:25:39.956] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:40.056] [info] SocketCAN opened.
+[2025-10-11 20:25:40.056] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:40.156] [info] SocketCAN opened.
+[2025-10-11 20:25:40.156] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:40.257] [info] SocketCAN opened.
+[2025-10-11 20:25:40.257] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:40.357] [info] SocketCAN opened.
+[2025-10-11 20:25:40.358] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:40.458] [info] SocketCAN opened.
+[2025-10-11 20:25:40.458] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:40.558] [info] SocketCAN opened.
+[2025-10-11 20:25:40.559] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:40.659] [info] SocketCAN opened.
+[2025-10-11 20:25:40.659] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:40.759] [info] SocketCAN opened.
+[2025-10-11 20:25:40.760] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:40.860] [info] SocketCAN opened.
+[2025-10-11 20:25:40.860] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:40.960] [info] SocketCAN opened.
+[2025-10-11 20:25:40.960] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:41.060] [info] SocketCAN opened.
+[2025-10-11 20:25:41.061] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:41.161] [info] SocketCAN opened.
+[2025-10-11 20:25:41.161] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:41.261] [info] SocketCAN opened.
+[2025-10-11 20:25:41.262] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:41.362] [info] SocketCAN opened.
+[2025-10-11 20:25:41.362] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:41.462] [info] SocketCAN opened.
+[2025-10-11 20:25:41.463] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:41.563] [info] SocketCAN opened.
+[2025-10-11 20:25:41.563] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:41.663] [info] SocketCAN opened.
+[2025-10-11 20:25:41.663] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:41.763] [info] SocketCAN opened.
+[2025-10-11 20:25:41.764] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:41.864] [info] SocketCAN opened.
+[2025-10-11 20:25:41.864] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:41.964] [info] SocketCAN opened.
+[2025-10-11 20:25:41.965] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:42.065] [info] SocketCAN opened.
+[2025-10-11 20:25:42.065] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:42.165] [info] SocketCAN opened.
+[2025-10-11 20:25:42.165] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:42.266] [info] SocketCAN opened.
+[2025-10-11 20:25:42.266] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:42.366] [info] SocketCAN opened.
+[2025-10-11 20:25:42.366] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:42.466] [info] SocketCAN opened.
+[2025-10-11 20:25:42.467] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:42.567] [info] SocketCAN opened.
+[2025-10-11 20:25:42.567] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:42.667] [info] SocketCAN opened.
+[2025-10-11 20:25:42.667] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:42.767] [info] SocketCAN opened.
+[2025-10-11 20:25:42.768] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:42.868] [info] SocketCAN opened.
+[2025-10-11 20:25:42.868] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:42.968] [info] SocketCAN opened.
+[2025-10-11 20:25:42.968] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:43.068] [info] SocketCAN opened.
+[2025-10-11 20:25:43.068] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:43.169] [info] SocketCAN opened.
+[2025-10-11 20:25:43.169] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:43.269] [info] SocketCAN opened.
+[2025-10-11 20:25:43.269] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:43.370] [info] SocketCAN opened.
+[2025-10-11 20:25:43.370] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:43.470] [info] SocketCAN opened.
+[2025-10-11 20:25:43.470] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:43.570] [info] SocketCAN opened.
+[2025-10-11 20:25:43.571] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:43.671] [info] SocketCAN opened.
+[2025-10-11 20:25:43.671] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:43.771] [info] SocketCAN opened.
+[2025-10-11 20:25:43.771] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:43.871] [info] SocketCAN opened.
+[2025-10-11 20:25:43.872] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:43.972] [info] SocketCAN opened.
+[2025-10-11 20:25:43.972] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:44.072] [info] SocketCAN opened.
+[2025-10-11 20:25:44.073] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:44.172] [info] SocketCAN opened.
+[2025-10-11 20:25:44.173] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:44.273] [info] SocketCAN opened.
+[2025-10-11 20:25:44.273] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:44.373] [info] SocketCAN opened.
+[2025-10-11 20:25:44.373] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:44.474] [info] SocketCAN opened.
+[2025-10-11 20:25:44.474] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:44.574] [info] SocketCAN opened.
+[2025-10-11 20:25:44.574] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:44.674] [info] SocketCAN opened.
+[2025-10-11 20:25:44.674] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:44.774] [info] SocketCAN opened.
+[2025-10-11 20:25:44.775] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:44.875] [info] SocketCAN opened.
+[2025-10-11 20:25:44.875] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:44.975] [info] SocketCAN opened.
+[2025-10-11 20:25:44.975] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:45.076] [info] SocketCAN opened.
+[2025-10-11 20:25:45.076] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:45.176] [info] SocketCAN opened.
+[2025-10-11 20:25:45.176] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:45.276] [info] SocketCAN opened.
+[2025-10-11 20:25:45.277] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:45.377] [info] SocketCAN opened.
+[2025-10-11 20:25:45.377] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:45.477] [info] SocketCAN opened.
+[2025-10-11 20:25:45.477] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:45.578] [info] SocketCAN opened.
+[2025-10-11 20:25:45.578] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:45.678] [info] SocketCAN opened.
+[2025-10-11 20:25:45.678] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:45.778] [info] SocketCAN opened.
+[2025-10-11 20:25:45.779] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:45.879] [info] SocketCAN opened.
+[2025-10-11 20:25:45.879] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:45.979] [info] SocketCAN opened.
+[2025-10-11 20:25:45.979] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:46.079] [info] SocketCAN opened.
+[2025-10-11 20:25:46.080] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:46.180] [info] SocketCAN opened.
+[2025-10-11 20:25:46.180] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:46.280] [info] SocketCAN opened.
+[2025-10-11 20:25:46.281] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:46.381] [info] SocketCAN opened.
+[2025-10-11 20:25:46.381] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:46.481] [info] SocketCAN opened.
+[2025-10-11 20:25:46.482] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:46.582] [info] SocketCAN opened.
+[2025-10-11 20:25:46.582] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:46.682] [info] SocketCAN opened.
+[2025-10-11 20:25:46.682] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:46.782] [info] SocketCAN opened.
+[2025-10-11 20:25:46.782] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:46.883] [info] SocketCAN opened.
+[2025-10-11 20:25:46.883] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:46.983] [info] SocketCAN opened.
+[2025-10-11 20:25:46.983] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:47.084] [info] SocketCAN opened.
+[2025-10-11 20:25:47.084] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:47.184] [info] SocketCAN opened.
+[2025-10-11 20:25:47.184] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:47.285] [info] SocketCAN opened.
+[2025-10-11 20:25:47.285] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:47.385] [info] SocketCAN opened.
+[2025-10-11 20:25:47.385] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:47.485] [info] SocketCAN opened.
+[2025-10-11 20:25:47.486] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:47.586] [info] SocketCAN opened.
+[2025-10-11 20:25:47.586] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:47.686] [info] SocketCAN opened.
+[2025-10-11 20:25:47.686] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:47.786] [info] SocketCAN opened.
+[2025-10-11 20:25:47.787] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:47.887] [info] SocketCAN opened.
+[2025-10-11 20:25:47.887] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:47.987] [info] SocketCAN opened.
+[2025-10-11 20:25:47.988] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:48.088] [info] SocketCAN opened.
+[2025-10-11 20:25:48.088] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:48.188] [info] SocketCAN opened.
+[2025-10-11 20:25:48.188] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:48.289] [info] SocketCAN opened.
+[2025-10-11 20:25:48.289] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:48.389] [info] SocketCAN opened.
+[2025-10-11 20:25:48.389] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:48.489] [info] SocketCAN opened.
+[2025-10-11 20:25:48.489] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:48.589] [info] SocketCAN opened.
+[2025-10-11 20:25:48.590] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:48.690] [info] SocketCAN opened.
+[2025-10-11 20:25:48.690] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:48.790] [info] SocketCAN opened.
+[2025-10-11 20:25:48.790] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:48.890] [info] SocketCAN opened.
+[2025-10-11 20:25:48.890] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:48.990] [info] SocketCAN opened.
+[2025-10-11 20:25:48.990] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:49.090] [info] SocketCAN opened.
+[2025-10-11 20:25:49.091] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:49.191] [info] SocketCAN opened.
+[2025-10-11 20:25:49.191] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:49.291] [info] SocketCAN opened.
+[2025-10-11 20:25:49.291] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:49.391] [info] SocketCAN opened.
+[2025-10-11 20:25:49.392] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:49.491] [info] SocketCAN opened.
+[2025-10-11 20:25:49.492] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:49.592] [info] SocketCAN opened.
+[2025-10-11 20:25:49.592] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:49.692] [info] SocketCAN opened.
+[2025-10-11 20:25:49.692] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:49.792] [info] SocketCAN opened.
+[2025-10-11 20:25:49.792] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:49.892] [info] SocketCAN opened.
+[2025-10-11 20:25:49.892] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:49.992] [info] SocketCAN opened.
+[2025-10-11 20:25:49.993] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:50.093] [info] SocketCAN opened.
+[2025-10-11 20:25:50.093] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:50.193] [info] SocketCAN opened.
+[2025-10-11 20:25:50.193] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:50.293] [info] SocketCAN opened.
+[2025-10-11 20:25:50.293] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:50.393] [info] SocketCAN opened.
+[2025-10-11 20:25:50.394] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:50.494] [info] SocketCAN opened.
+[2025-10-11 20:25:50.494] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:50.594] [info] SocketCAN opened.
+[2025-10-11 20:25:50.594] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:50.694] [info] SocketCAN opened.
+[2025-10-11 20:25:50.694] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:50.794] [info] SocketCAN opened.
+[2025-10-11 20:25:50.795] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:50.895] [info] SocketCAN opened.
+[2025-10-11 20:25:50.895] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:50.995] [info] SocketCAN opened.
+[2025-10-11 20:25:50.995] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:51.095] [info] SocketCAN opened.
+[2025-10-11 20:25:51.095] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:51.195] [info] SocketCAN opened.
+[2025-10-11 20:25:51.195] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:51.295] [info] SocketCAN opened.
+[2025-10-11 20:25:51.296] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:51.396] [info] SocketCAN opened.
+[2025-10-11 20:25:51.396] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:51.496] [info] SocketCAN opened.
+[2025-10-11 20:25:51.496] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:51.596] [info] SocketCAN opened.
+[2025-10-11 20:25:51.596] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:51.696] [info] SocketCAN opened.
+[2025-10-11 20:25:51.696] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:51.796] [info] SocketCAN opened.
+[2025-10-11 20:25:51.797] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:51.897] [info] SocketCAN opened.
+[2025-10-11 20:25:51.897] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:51.997] [info] SocketCAN opened.
+[2025-10-11 20:25:51.997] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:52.097] [info] SocketCAN opened.
+[2025-10-11 20:25:52.097] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:52.197] [info] SocketCAN opened.
+[2025-10-11 20:25:52.197] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:52.297] [info] SocketCAN opened.
+[2025-10-11 20:25:52.298] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:52.398] [info] SocketCAN opened.
+[2025-10-11 20:25:52.398] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:52.498] [info] SocketCAN opened.
+[2025-10-11 20:25:52.498] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:52.598] [info] SocketCAN opened.
+[2025-10-11 20:25:52.598] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:52.698] [info] SocketCAN opened.
+[2025-10-11 20:25:52.699] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:52.799] [info] SocketCAN opened.
+[2025-10-11 20:25:52.799] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:52.899] [info] SocketCAN opened.
+[2025-10-11 20:25:52.899] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:52.999] [info] SocketCAN opened.
+[2025-10-11 20:25:52.999] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:53.099] [info] SocketCAN opened.
+[2025-10-11 20:25:53.099] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:53.200] [info] SocketCAN opened.
+[2025-10-11 20:25:53.200] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:53.300] [info] SocketCAN opened.
+[2025-10-11 20:25:53.300] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:53.400] [info] SocketCAN opened.
+[2025-10-11 20:25:53.400] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:53.500] [info] SocketCAN opened.
+[2025-10-11 20:25:53.500] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:53.600] [info] SocketCAN opened.
+[2025-10-11 20:25:53.601] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:53.701] [info] SocketCAN opened.
+[2025-10-11 20:25:53.701] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:53.801] [info] SocketCAN opened.
+[2025-10-11 20:25:53.801] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:53.901] [info] SocketCAN opened.
+[2025-10-11 20:25:53.901] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:54.001] [info] SocketCAN opened.
+[2025-10-11 20:25:54.001] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:54.101] [info] SocketCAN opened.
+[2025-10-11 20:25:54.102] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:54.202] [info] SocketCAN opened.
+[2025-10-11 20:25:54.202] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:54.302] [info] SocketCAN opened.
+[2025-10-11 20:25:54.302] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:54.402] [info] SocketCAN opened.
+[2025-10-11 20:25:54.402] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:54.502] [info] SocketCAN opened.
+[2025-10-11 20:25:54.503] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:54.603] [info] SocketCAN opened.
+[2025-10-11 20:25:54.603] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:54.703] [info] SocketCAN opened.
+[2025-10-11 20:25:54.703] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:54.803] [info] SocketCAN opened.
+[2025-10-11 20:25:54.803] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:54.903] [info] SocketCAN opened.
+[2025-10-11 20:25:54.903] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:55.003] [info] SocketCAN opened.
+[2025-10-11 20:25:55.004] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:55.104] [info] SocketCAN opened.
+[2025-10-11 20:25:55.104] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:55.204] [info] SocketCAN opened.
+[2025-10-11 20:25:55.204] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:55.304] [info] SocketCAN opened.
+[2025-10-11 20:25:55.305] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:55.405] [info] SocketCAN opened.
+[2025-10-11 20:25:55.405] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:55.505] [info] SocketCAN opened.
+[2025-10-11 20:25:55.506] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:55.606] [info] SocketCAN opened.
+[2025-10-11 20:25:55.606] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:55.706] [info] SocketCAN opened.
+[2025-10-11 20:25:55.706] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:55.806] [info] SocketCAN opened.
+[2025-10-11 20:25:55.807] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:55.907] [info] SocketCAN opened.
+[2025-10-11 20:25:55.907] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:56.007] [info] SocketCAN opened.
+[2025-10-11 20:25:56.007] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:56.107] [info] SocketCAN opened.
+[2025-10-11 20:25:56.108] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:56.208] [info] SocketCAN opened.
+[2025-10-11 20:25:56.208] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:56.308] [info] SocketCAN opened.
+[2025-10-11 20:25:56.308] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:56.408] [info] SocketCAN opened.
+[2025-10-11 20:25:56.409] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:56.509] [info] SocketCAN opened.
+[2025-10-11 20:25:56.509] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:56.609] [info] SocketCAN opened.
+[2025-10-11 20:25:56.609] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:56.709] [info] SocketCAN opened.
+[2025-10-11 20:25:56.710] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:56.810] [info] SocketCAN opened.
+[2025-10-11 20:25:56.810] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:56.910] [info] SocketCAN opened.
+[2025-10-11 20:25:56.910] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:57.010] [info] SocketCAN opened.
+[2025-10-11 20:25:57.011] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:57.111] [info] SocketCAN opened.
+[2025-10-11 20:25:57.111] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:57.211] [info] SocketCAN opened.
+[2025-10-11 20:25:57.211] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:57.311] [info] SocketCAN opened.
+[2025-10-11 20:25:57.311] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:57.412] [info] SocketCAN opened.
+[2025-10-11 20:25:57.412] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:57.512] [info] SocketCAN opened.
+[2025-10-11 20:25:57.512] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:57.612] [info] SocketCAN opened.
+[2025-10-11 20:25:57.612] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:57.712] [info] SocketCAN opened.
+[2025-10-11 20:25:57.713] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:57.813] [info] SocketCAN opened.
+[2025-10-11 20:25:57.813] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:57.913] [info] SocketCAN opened.
+[2025-10-11 20:25:57.913] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:58.014] [info] SocketCAN opened.
+[2025-10-11 20:25:58.014] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:58.114] [info] SocketCAN opened.
+[2025-10-11 20:25:58.114] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:58.215] [info] SocketCAN opened.
+[2025-10-11 20:25:58.215] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:58.315] [info] SocketCAN opened.
+[2025-10-11 20:25:58.315] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:58.415] [info] SocketCAN opened.
+[2025-10-11 20:25:58.416] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:58.516] [info] SocketCAN opened.
+[2025-10-11 20:25:58.516] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:58.616] [info] SocketCAN opened.
+[2025-10-11 20:25:58.616] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:58.717] [info] SocketCAN opened.
+[2025-10-11 20:25:58.717] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:58.817] [info] SocketCAN opened.
+[2025-10-11 20:25:58.817] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:58.918] [info] SocketCAN opened.
+[2025-10-11 20:25:58.918] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:59.018] [info] SocketCAN opened.
+[2025-10-11 20:25:59.018] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:59.118] [info] SocketCAN opened.
+[2025-10-11 20:25:59.119] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:59.219] [info] SocketCAN opened.
+[2025-10-11 20:25:59.219] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:59.319] [info] SocketCAN opened.
+[2025-10-11 20:25:59.320] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:59.420] [info] SocketCAN opened.
+[2025-10-11 20:25:59.420] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:59.520] [info] SocketCAN opened.
+[2025-10-11 20:25:59.521] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:59.621] [info] SocketCAN opened.
+[2025-10-11 20:25:59.621] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:59.721] [info] SocketCAN opened.
+[2025-10-11 20:25:59.722] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:59.822] [info] SocketCAN opened.
+[2025-10-11 20:25:59.822] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:25:59.922] [info] SocketCAN opened.
+[2025-10-11 20:25:59.922] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:00.022] [info] SocketCAN opened.
+[2025-10-11 20:26:00.022] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:00.122] [info] SocketCAN opened.
+[2025-10-11 20:26:00.123] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:00.223] [info] SocketCAN opened.
+[2025-10-11 20:26:00.223] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:00.323] [info] SocketCAN opened.
+[2025-10-11 20:26:00.323] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:00.423] [info] SocketCAN opened.
+[2025-10-11 20:26:00.423] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:00.523] [info] SocketCAN opened.
+[2025-10-11 20:26:00.523] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:00.623] [info] SocketCAN opened.
+[2025-10-11 20:26:00.624] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:00.724] [info] SocketCAN opened.
+[2025-10-11 20:26:00.724] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:00.824] [info] SocketCAN opened.
+[2025-10-11 20:26:00.824] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:00.924] [info] SocketCAN opened.
+[2025-10-11 20:26:00.924] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:01.024] [info] SocketCAN opened.
+[2025-10-11 20:26:01.025] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:01.125] [info] SocketCAN opened.
+[2025-10-11 20:26:01.125] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:01.225] [info] SocketCAN opened.
+[2025-10-11 20:26:01.225] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:01.325] [info] SocketCAN opened.
+[2025-10-11 20:26:01.325] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:01.425] [info] SocketCAN opened.
+[2025-10-11 20:26:01.425] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:01.526] [info] SocketCAN opened.
+[2025-10-11 20:26:01.526] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:01.626] [info] SocketCAN opened.
+[2025-10-11 20:26:01.626] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:01.726] [info] SocketCAN opened.
+[2025-10-11 20:26:01.727] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:01.826] [info] SocketCAN opened.
+[2025-10-11 20:26:01.827] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:01.927] [info] SocketCAN opened.
+[2025-10-11 20:26:01.927] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:02.027] [info] SocketCAN opened.
+[2025-10-11 20:26:02.027] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:02.127] [info] SocketCAN opened.
+[2025-10-11 20:26:02.127] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:02.227] [info] SocketCAN opened.
+[2025-10-11 20:26:02.228] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:02.328] [info] SocketCAN opened.
+[2025-10-11 20:26:02.328] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:02.428] [info] SocketCAN opened.
+[2025-10-11 20:26:02.428] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:02.528] [info] SocketCAN opened.
+[2025-10-11 20:26:02.528] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:02.628] [info] SocketCAN opened.
+[2025-10-11 20:26:02.629] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:02.729] [info] SocketCAN opened.
+[2025-10-11 20:26:02.729] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:02.829] [info] SocketCAN opened.
+[2025-10-11 20:26:02.829] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:02.929] [info] SocketCAN opened.
+[2025-10-11 20:26:02.929] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:03.029] [info] SocketCAN opened.
+[2025-10-11 20:26:03.030] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:03.130] [info] SocketCAN opened.
+[2025-10-11 20:26:03.130] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:03.231] [info] SocketCAN opened.
+[2025-10-11 20:26:03.231] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:03.331] [info] SocketCAN opened.
+[2025-10-11 20:26:03.331] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:03.431] [info] SocketCAN opened.
+[2025-10-11 20:26:03.432] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:03.532] [info] SocketCAN opened.
+[2025-10-11 20:26:03.532] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:03.632] [info] SocketCAN opened.
+[2025-10-11 20:26:03.632] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:03.732] [info] SocketCAN opened.
+[2025-10-11 20:26:03.733] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:03.833] [info] SocketCAN opened.
+[2025-10-11 20:26:03.833] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:03.933] [info] SocketCAN opened.
+[2025-10-11 20:26:03.933] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:04.033] [info] SocketCAN opened.
+[2025-10-11 20:26:04.033] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:04.133] [info] SocketCAN opened.
+[2025-10-11 20:26:04.134] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:04.234] [info] SocketCAN opened.
+[2025-10-11 20:26:04.234] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:04.334] [info] SocketCAN opened.
+[2025-10-11 20:26:04.334] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:04.434] [info] SocketCAN opened.
+[2025-10-11 20:26:04.435] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:04.535] [info] SocketCAN opened.
+[2025-10-11 20:26:04.535] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:04.635] [info] SocketCAN opened.
+[2025-10-11 20:26:04.635] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:04.735] [info] SocketCAN opened.
+[2025-10-11 20:26:04.736] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:04.836] [info] SocketCAN opened.
+[2025-10-11 20:26:04.836] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:04.936] [info] SocketCAN opened.
+[2025-10-11 20:26:04.936] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:05.036] [info] SocketCAN opened.
+[2025-10-11 20:26:05.036] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:05.136] [info] SocketCAN opened.
+[2025-10-11 20:26:05.136] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:05.237] [info] SocketCAN opened.
+[2025-10-11 20:26:05.237] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:05.337] [info] SocketCAN opened.
+[2025-10-11 20:26:05.337] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:05.438] [info] SocketCAN opened.
+[2025-10-11 20:26:05.438] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:05.538] [info] SocketCAN opened.
+[2025-10-11 20:26:05.538] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:05.638] [info] SocketCAN opened.
+[2025-10-11 20:26:05.638] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:05.738] [info] SocketCAN opened.
+[2025-10-11 20:26:05.739] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:05.838] [info] SocketCAN opened.
+[2025-10-11 20:26:05.839] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:05.939] [info] SocketCAN opened.
+[2025-10-11 20:26:05.939] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:06.039] [info] SocketCAN opened.
+[2025-10-11 20:26:06.040] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:06.140] [info] SocketCAN opened.
+[2025-10-11 20:26:06.140] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:06.240] [info] SocketCAN opened.
+[2025-10-11 20:26:06.240] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:06.340] [info] SocketCAN opened.
+[2025-10-11 20:26:06.340] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:06.440] [info] SocketCAN opened.
+[2025-10-11 20:26:06.441] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:06.541] [info] SocketCAN opened.
+[2025-10-11 20:26:06.541] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:06.641] [info] SocketCAN opened.
+[2025-10-11 20:26:06.641] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:06.741] [info] SocketCAN opened.
+[2025-10-11 20:26:06.741] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:06.841] [info] SocketCAN opened.
+[2025-10-11 20:26:06.842] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:06.942] [info] SocketCAN opened.
+[2025-10-11 20:26:06.942] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:07.042] [info] SocketCAN opened.
+[2025-10-11 20:26:07.042] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:07.142] [info] SocketCAN opened.
+[2025-10-11 20:26:07.142] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:07.242] [info] SocketCAN opened.
+[2025-10-11 20:26:07.243] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:07.342] [info] SocketCAN opened.
+[2025-10-11 20:26:07.343] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:07.443] [info] SocketCAN opened.
+[2025-10-11 20:26:07.443] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:07.543] [info] SocketCAN opened.
+[2025-10-11 20:26:07.543] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:07.643] [info] SocketCAN opened.
+[2025-10-11 20:26:07.644] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:07.744] [info] SocketCAN opened.
+[2025-10-11 20:26:07.744] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:07.844] [info] SocketCAN opened.
+[2025-10-11 20:26:07.844] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:07.944] [info] SocketCAN opened.
+[2025-10-11 20:26:07.945] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:08.045] [info] SocketCAN opened.
+[2025-10-11 20:26:08.045] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:08.145] [info] SocketCAN opened.
+[2025-10-11 20:26:08.145] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:08.245] [info] SocketCAN opened.
+[2025-10-11 20:26:08.245] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:08.346] [info] SocketCAN opened.
+[2025-10-11 20:26:08.346] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:08.446] [info] SocketCAN opened.
+[2025-10-11 20:26:08.446] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:08.546] [info] SocketCAN opened.
+[2025-10-11 20:26:08.546] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:08.646] [info] SocketCAN opened.
+[2025-10-11 20:26:08.646] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:08.747] [info] SocketCAN opened.
+[2025-10-11 20:26:08.747] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:08.847] [info] SocketCAN opened.
+[2025-10-11 20:26:08.847] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:08.947] [info] SocketCAN opened.
+[2025-10-11 20:26:08.948] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:09.048] [info] SocketCAN opened.
+[2025-10-11 20:26:09.048] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:09.148] [info] SocketCAN opened.
+[2025-10-11 20:26:09.148] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:09.248] [info] SocketCAN opened.
+[2025-10-11 20:26:09.249] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:09.349] [info] SocketCAN opened.
+[2025-10-11 20:26:09.349] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:09.449] [info] SocketCAN opened.
+[2025-10-11 20:26:09.449] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:09.549] [info] SocketCAN opened.
+[2025-10-11 20:26:09.550] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:09.650] [info] SocketCAN opened.
+[2025-10-11 20:26:09.650] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:09.750] [info] SocketCAN opened.
+[2025-10-11 20:26:09.750] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:09.851] [info] SocketCAN opened.
+[2025-10-11 20:26:09.851] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:09.951] [info] SocketCAN opened.
+[2025-10-11 20:26:09.951] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:10.052] [info] SocketCAN opened.
+[2025-10-11 20:26:10.052] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:10.152] [info] SocketCAN opened.
+[2025-10-11 20:26:10.152] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:10.252] [info] SocketCAN opened.
+[2025-10-11 20:26:10.252] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:10.352] [info] SocketCAN opened.
+[2025-10-11 20:26:10.353] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:10.453] [info] SocketCAN opened.
+[2025-10-11 20:26:10.453] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:10.553] [info] SocketCAN opened.
+[2025-10-11 20:26:10.553] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:10.653] [info] SocketCAN opened.
+[2025-10-11 20:26:10.653] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:10.753] [info] SocketCAN opened.
+[2025-10-11 20:26:10.754] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:10.854] [info] SocketCAN opened.
+[2025-10-11 20:26:10.854] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:10.954] [info] SocketCAN opened.
+[2025-10-11 20:26:10.954] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:11.054] [info] SocketCAN opened.
+[2025-10-11 20:26:11.054] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:11.154] [info] SocketCAN opened.
+[2025-10-11 20:26:11.155] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:11.255] [info] SocketCAN opened.
+[2025-10-11 20:26:11.255] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:11.355] [info] SocketCAN opened.
+[2025-10-11 20:26:11.355] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:11.455] [info] SocketCAN opened.
+[2025-10-11 20:26:11.456] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:11.556] [info] SocketCAN opened.
+[2025-10-11 20:26:11.556] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:11.656] [info] SocketCAN opened.
+[2025-10-11 20:26:11.656] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:11.757] [info] SocketCAN opened.
+[2025-10-11 20:26:11.757] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:11.857] [info] SocketCAN opened.
+[2025-10-11 20:26:11.857] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:11.958] [info] SocketCAN opened.
+[2025-10-11 20:26:11.958] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:12.058] [info] SocketCAN opened.
+[2025-10-11 20:26:12.058] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:12.158] [info] SocketCAN opened.
+[2025-10-11 20:26:12.159] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:12.259] [info] SocketCAN opened.
+[2025-10-11 20:26:12.259] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:12.359] [info] SocketCAN opened.
+[2025-10-11 20:26:12.359] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:12.459] [info] SocketCAN opened.
+[2025-10-11 20:26:12.459] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:12.560] [info] SocketCAN opened.
+[2025-10-11 20:26:12.560] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:12.660] [info] SocketCAN opened.
+[2025-10-11 20:26:12.660] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:12.760] [info] SocketCAN opened.
+[2025-10-11 20:26:12.760] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:12.861] [info] SocketCAN opened.
+[2025-10-11 20:26:12.861] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:12.961] [info] SocketCAN opened.
+[2025-10-11 20:26:12.961] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:13.061] [info] SocketCAN opened.
+[2025-10-11 20:26:13.061] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:13.161] [info] SocketCAN opened.
+[2025-10-11 20:26:13.162] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:13.262] [info] SocketCAN opened.
+[2025-10-11 20:26:13.262] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:13.362] [info] SocketCAN opened.
+[2025-10-11 20:26:13.362] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:13.463] [info] SocketCAN opened.
+[2025-10-11 20:26:13.463] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:13.563] [info] SocketCAN opened.
+[2025-10-11 20:26:13.563] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:13.663] [info] SocketCAN opened.
+[2025-10-11 20:26:13.663] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:13.763] [info] SocketCAN opened.
+[2025-10-11 20:26:13.764] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:13.864] [info] SocketCAN opened.
+[2025-10-11 20:26:13.864] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:13.964] [info] SocketCAN opened.
+[2025-10-11 20:26:13.964] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:14.064] [info] SocketCAN opened.
+[2025-10-11 20:26:14.065] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:14.165] [info] SocketCAN opened.
+[2025-10-11 20:26:14.165] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:14.265] [info] SocketCAN opened.
+[2025-10-11 20:26:14.265] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:14.365] [info] SocketCAN opened.
+[2025-10-11 20:26:14.366] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:14.466] [info] SocketCAN opened.
+[2025-10-11 20:26:14.466] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:14.566] [info] SocketCAN opened.
+[2025-10-11 20:26:14.566] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:14.666] [info] SocketCAN opened.
+[2025-10-11 20:26:14.666] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:14.767] [info] SocketCAN opened.
+[2025-10-11 20:26:14.767] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:14.867] [info] SocketCAN opened.
+[2025-10-11 20:26:14.867] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:14.967] [info] SocketCAN opened.
+[2025-10-11 20:26:14.967] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:15.068] [info] SocketCAN opened.
+[2025-10-11 20:26:15.068] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:15.168] [info] SocketCAN opened.
+[2025-10-11 20:26:15.168] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:15.268] [info] SocketCAN opened.
+[2025-10-11 20:26:15.268] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:15.369] [info] SocketCAN opened.
+[2025-10-11 20:26:15.369] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:15.469] [info] SocketCAN opened.
+[2025-10-11 20:26:15.469] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:15.569] [info] SocketCAN opened.
+[2025-10-11 20:26:15.570] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:15.670] [info] SocketCAN opened.
+[2025-10-11 20:26:15.670] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:15.770] [info] SocketCAN opened.
+[2025-10-11 20:26:15.770] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:15.871] [info] SocketCAN opened.
+[2025-10-11 20:26:15.871] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:15.971] [info] SocketCAN opened.
+[2025-10-11 20:26:15.971] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:16.071] [info] SocketCAN opened.
+[2025-10-11 20:26:16.071] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:16.172] [info] SocketCAN opened.
+[2025-10-11 20:26:16.172] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:16.272] [info] SocketCAN opened.
+[2025-10-11 20:26:16.272] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:16.372] [info] SocketCAN opened.
+[2025-10-11 20:26:16.372] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:16.473] [info] SocketCAN opened.
+[2025-10-11 20:26:16.473] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:16.573] [info] SocketCAN opened.
+[2025-10-11 20:26:16.573] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:16.673] [info] SocketCAN opened.
+[2025-10-11 20:26:16.674] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:16.774] [info] SocketCAN opened.
+[2025-10-11 20:26:16.774] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:16.874] [info] SocketCAN opened.
+[2025-10-11 20:26:16.875] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:16.975] [info] SocketCAN opened.
+[2025-10-11 20:26:16.975] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:17.075] [info] SocketCAN opened.
+[2025-10-11 20:26:17.075] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:17.175] [info] SocketCAN opened.
+[2025-10-11 20:26:17.175] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:17.275] [info] SocketCAN opened.
+[2025-10-11 20:26:17.276] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:17.376] [info] SocketCAN opened.
+[2025-10-11 20:26:17.376] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:17.476] [info] SocketCAN opened.
+[2025-10-11 20:26:17.476] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:17.577] [info] SocketCAN opened.
+[2025-10-11 20:26:17.577] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:17.677] [info] SocketCAN opened.
+[2025-10-11 20:26:17.677] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:17.777] [info] SocketCAN opened.
+[2025-10-11 20:26:17.778] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:17.878] [info] SocketCAN opened.
+[2025-10-11 20:26:17.878] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:17.978] [info] SocketCAN opened.
+[2025-10-11 20:26:17.978] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:18.078] [info] SocketCAN opened.
+[2025-10-11 20:26:18.079] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:18.179] [info] SocketCAN opened.
+[2025-10-11 20:26:18.179] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:18.279] [info] SocketCAN opened.
+[2025-10-11 20:26:18.280] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:18.380] [info] SocketCAN opened.
+[2025-10-11 20:26:18.380] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:18.480] [info] SocketCAN opened.
+[2025-10-11 20:26:18.480] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:18.581] [info] SocketCAN opened.
+[2025-10-11 20:26:18.581] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:18.681] [info] SocketCAN opened.
+[2025-10-11 20:26:18.681] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:18.781] [info] SocketCAN opened.
+[2025-10-11 20:26:18.782] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:18.882] [info] SocketCAN opened.
+[2025-10-11 20:26:18.882] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:18.982] [info] SocketCAN opened.
+[2025-10-11 20:26:18.982] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:19.082] [info] SocketCAN opened.
+[2025-10-11 20:26:19.083] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:19.183] [info] SocketCAN opened.
+[2025-10-11 20:26:19.183] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:19.283] [info] SocketCAN opened.
+[2025-10-11 20:26:19.283] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:19.383] [info] SocketCAN opened.
+[2025-10-11 20:26:19.383] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:19.483] [info] SocketCAN opened.
+[2025-10-11 20:26:19.484] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:19.584] [info] SocketCAN opened.
+[2025-10-11 20:26:19.584] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:19.684] [info] SocketCAN opened.
+[2025-10-11 20:26:19.684] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:19.784] [info] SocketCAN opened.
+[2025-10-11 20:26:19.785] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:19.885] [info] SocketCAN opened.
+[2025-10-11 20:26:19.885] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:19.985] [info] SocketCAN opened.
+[2025-10-11 20:26:19.985] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:20.085] [info] SocketCAN opened.
+[2025-10-11 20:26:20.085] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:20.185] [info] SocketCAN opened.
+[2025-10-11 20:26:20.186] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:20.286] [info] SocketCAN opened.
+[2025-10-11 20:26:20.286] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:20.386] [info] SocketCAN opened.
+[2025-10-11 20:26:20.386] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:20.486] [info] SocketCAN opened.
+[2025-10-11 20:26:20.486] [warning] SocketCAN::read() failed: Error reading from SocketCAN!
+[2025-10-11 20:26:20.586] [info] SocketCAN opened.
+[2025-10-11 20:26:20.587] [warning] SocketCAN::read() failed: Error reading from SocketCAN!

@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/henry/MA2026_Vision/build/cmake_install.cmake",
+		"/home/henry/MA2026_Vision/build/tools/cmake_install.cmake",
+		"/home/henry/MA2026_Vision/build/io/cmake_install.cmake",
+		"/home/henry/MA2026_Vision/build/io/serial/cmake_install.cmake",
+		"/home/henry/MA2026_Vision/build/tasks/auto_aim/cmake_install.cmake",
+		"/home/henry/MA2026_Vision/build/tasks/auto_aim/planner/tinympc/cmake_install.cmake",
+		"/home/henry/MA2026_Vision/build/tasks/auto_buff/cmake_install.cmake",
+		"/home/henry/MA2026_Vision/build/tasks/omniperception/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

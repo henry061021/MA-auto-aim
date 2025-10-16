@@ -1,0 +1,2 @@
+/usr/bin/ar qc libio.a CMakeFiles/io.dir/hikrobot/hikrobot.cpp.o CMakeFiles/io.dir/mindvision/mindvision.cpp.o CMakeFiles/io.dir/usbcamera/usbcamera.cpp.o CMakeFiles/io.dir/camera.cpp.o CMakeFiles/io.dir/cboard.cpp.o CMakeFiles/io.dir/dm_imu/dm_imu.cpp.o CMakeFiles/io.dir/gimbal/gimbal.cpp.o
+/usr/bin/ranlib libio.a

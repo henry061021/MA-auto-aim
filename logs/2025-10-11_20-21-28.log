@@ -1,0 +1,2 @@
+[2025-10-11 20:21:28.219] [info] 默认标定板尺寸为10列7行
+[2025-10-11 20:21:28.219] [error] [Gimbal] Failed to open serial: IO Exception (2): No such file or directory, file /home/henry/MA2026_Vision/io/serial/src/impl/unix.cc, line 151.
